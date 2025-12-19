@@ -2636,6 +2636,7 @@
 
 ## others 
 
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [DeadlySquad13/Programming_dotfiles.bootstrap](https://github.com/DeadlySquad13/Programming_dotfiles.bootstrap) - 
 - [vikramsoni2/nextExplorer](https://github.com/vikramsoni2/nextExplorer) - Web based File Explorer
 - [clan-lol/clan-infra](https://github.com/clan-lol/clan-infra) - Server infrastructure for the clan project [read-only mirror]
@@ -2959,7 +2960,7 @@
 - [s00d/switchshuttle](https://github.com/s00d/switchshuttle) - SwitchShuttle is a cross-platform system tray application that allows users to run predefined commands in various terminal applications. It supports macOS, Windows, and Linux, offering a simple and cu
 - [OneKeePass/desktop](https://github.com/OneKeePass/desktop) - A secure password manager for macOS,Linux and Windows platforms
 - [wp-seopress/wp-seopress-public](https://github.com/wp-seopress/wp-seopress-public) - SEOPress, the best WordPress SEO plugin available on the market to rank higher in search engines.
-- [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe) - WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.
+- [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe) - WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own searc
 - [short-pixel-optimizer/shortpixel-image-optimiser](https://github.com/short-pixel-optimizer/shortpixel-image-optimiser) - ShortPixel Image Optimizer WordPress Plugin
 - [short-pixel-optimizer/enable-media-replace](https://github.com/short-pixel-optimizer/enable-media-replace) - Enable Media Replace WordPress plugin
 - [WebDevStudios/custom-post-type-ui](https://github.com/WebDevStudios/custom-post-type-ui) - Admin UI settings for creating custom post types and taxonomies in WordPress
