@@ -369,7 +369,6 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [adamziel/playground-docs-workflow](https://github.com/adamziel/playground-docs-workflow) - Experimenting with maintaining WordPress docs using WordPress Playground
-- [WordPress/blueprints](https://github.com/WordPress/blueprints) - Blueprints gallery and examples
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [zarfadev/MobaXterm-Keygen](https://github.com/zarfadev/MobaXterm-Keygen) - MobaXterm Key Generate
 - [torappinfo/uweb](https://github.com/torappinfo/uweb) - uweb browser: minimal suckless android web browser for geeks
@@ -822,6 +821,7 @@
 - [ProgressPlanner/blueprint-builder](https://github.com/ProgressPlanner/blueprint-builder) - A simple plugin to create a WordPress Playground blueprint from your current environment.
 - [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
 - [wp-privacy/wp-api-privacy](https://github.com/wp-privacy/wp-api-privacy) - A plugin for WordPress to restrict information passed via the WordPress HTTP API.   Not affiliated in any way, shape, or form with WordPress.org or Automattic.
+- [WordPress/blueprints](https://github.com/WordPress/blueprints) - Blueprints gallery and examples
 - [pentiminax/symfony-docker-mercure-boilerplate](https://github.com/pentiminax/symfony-docker-mercure-boilerplate) - Dépôt pour la création d'un chat en temps réel avec Symfony, Docker et Mercure.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [codersaiful/ultraaddons-elementor-lite](https://github.com/codersaiful/ultraaddons-elementor-lite) - UltraAddons Elementor Lite is a Elementor Addons Plugin and it has some Unique features and Ready made Widget. By using this plugin, You able to create a Full web site just by drag and drop.
@@ -836,7 +836,7 @@
 - [agencearcange/wordpress-composer-skeleton](https://github.com/agencearcange/wordpress-composer-skeleton) - This is simple a skeleton repo for a WordPress site managed by composer
 - [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.
 - [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
-- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [jonathan-martz/pocketbase-php-sdk](https://github.com/jonathan-martz/pocketbase-php-sdk) - 
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
@@ -859,7 +859,7 @@
 - [laradumps/laradumps](https://github.com/laradumps/laradumps) - 🛻 LaraDumps is a friendly app designed to boost your Laravel PHP coding and debugging experience.
 - [littlebizzy/force-https](https://github.com/littlebizzy/force-https) - HTTPS enforcement for WordPress
 - [wp-seopress/wp-seopress-public](https://github.com/wp-seopress/wp-seopress-public) - SEOPress, the best WordPress SEO plugin available on the market to rank higher in search engines.
-- [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe) - WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results.
+- [soderlind/wp-loupe](https://github.com/soderlind/wp-loupe) - WP Loupe is a powerful search enhancement plugin for WordPress that delivers fast, accurate, and typo-tolerant search results. WP Loupe exposes a developer-friendly API so you can build your own searc
 - [AyeCode/userswp](https://github.com/AyeCode/userswp) - Lightweight WordPress User Profile Plugin, provides a front end login form, registration form, edit account form, forgot password, searchable users directory, and user profiles. It can be extended and
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
 - [pantheon-systems/wp-redis](https://github.com/pantheon-systems/wp-redis) - WordPress Object Cache using Redis.
@@ -1043,6 +1043,7 @@
 
 ## Rust 
 
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [jdx/fnox](https://github.com/jdx/fnox) - encrypted/remote secret manager
 - [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
