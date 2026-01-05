@@ -1814,6 +1814,7 @@
 
 ## ios 
 
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [theSoberSobber/Docker-Manager](https://github.com/theSoberSobber/Docker-Manager) - Docker Manager is an Android App that allows you to manage your docker installation on remote from your mobile phone!
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
@@ -2244,6 +2245,7 @@
 
 ## macos 
 
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [theSoberSobber/Docker-Manager](https://github.com/theSoberSobber/Docker-Manager) - Docker Manager is an Android App that allows you to manage your docker installation on remote from your mobile phone!
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [naveenrajm7/vagrant_utm](https://github.com/naveenrajm7/vagrant_utm) - UTM provider for Vagrant
@@ -3811,6 +3813,7 @@
 
 ## swiftui 
 
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -4066,6 +4069,7 @@
 
 ## vpn 
 
+- [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
 - [DefGuard/client](https://github.com/DefGuard/client) - Sole VPN client implementing Multi-Factor Authentication on WireGuard® VPN connection
