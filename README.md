@@ -387,7 +387,7 @@
 - [haskell-wasm/pandoc-wasm](https://github.com/haskell-wasm/pandoc-wasm) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Axym-Labs/LetoReader](https://github.com/Axym-Labs/LetoReader) - A free self-hostable speed reader. Highly customizable. Implements chunking (RSVP), pacing and highlighting. Modern UI and local-storage only.
-- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+- [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -624,7 +624,7 @@
 - [igrek51/android-songbook](https://github.com/igrek51/android-songbook) - Songbook for Android - Song lyrics viewer with chords for guitar, piano and singing
 - [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android with support for custom tunings.
 - [mwdle/another-widget](https://github.com/mwdle/another-widget) - Watch events, weather and much more at a glance.
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An Android application for music recognition that uses AudD and ACRCloud services to perform song identification.
+- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
 - [lorenzovngl/FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - 📱 Android app to track food expiration dates 🥦🥛🍎. Built with Jetpack Compose 🧩, MVVM 🛠️, Room 🗄️, and Material You 🎨.
 - [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIRROR OF: https://gitlab.com/guardianproject/proofmode/proofmode-android
@@ -807,6 +807,9 @@
 
 ## PHP 
 
+- [WPManageNinja/easy-code-manager](https://github.com/WPManageNinja/easy-code-manager) - The High-Performance File Based Code Snippet Plugin for WP
+- [codesnippetspro/code-snippets](https://github.com/codesnippetspro/code-snippets) - Code Snippets WordPress Plugin
+- [ibericode/koko-analytics](https://github.com/ibericode/koko-analytics) - Privacy-friendly, open-source analytics for WordPress — GDPR compliant, cookieless, and fast
 - [webguyio/blankslate](https://github.com/webguyio/blankslate) - A naked WordPress theme, powering over 10k websites. Buy me a sandwich. 🥪
 - [fungsi1984/flox-wpstack](https://github.com/fungsi1984/flox-wpstack) - flox nix for wordpress
 - [shlinkio/shlink](https://github.com/shlinkio/shlink) - The definitive self-hosted URL shortener
@@ -907,6 +910,7 @@
 
 ## Python 
 
+- [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
 - [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks) - 🌈 The same app built in 10 different frontend frameworks. For automated performance benchmarking
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
@@ -1061,6 +1065,7 @@
 
 ## Rust 
 
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [bearcove/dodeca](https://github.com/bearcove/dodeca) - A salsa-infused static site generator
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compac
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
@@ -1260,6 +1265,7 @@
 
 ## TypeScript 
 
+- [Automattic/studio](https://github.com/Automattic/studio) - WordPress Studio, a free desktop app that helps developers streamline their local WordPress development workflow.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
