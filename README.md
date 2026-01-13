@@ -545,7 +545,6 @@
 - [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [aclap-dev/vdhcoapp](https://github.com/aclap-dev/vdhcoapp) - Companion application for Video DownloadHelper browser add-on
 - [StefanLobbenmeier/youtube-dl-gui](https://github.com/StefanLobbenmeier/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [zach-adams/simple-new-tab-url](https://github.com/zach-adams/simple-new-tab-url) - 
 - [Flowgem/Proxmox-Console-Extension](https://github.com/Flowgem/Proxmox-Console-Extension) - 
@@ -647,7 +646,7 @@
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
-- [ThomasNowProductions/YAM-launcher](https://github.com/ThomasNowProductions/YAM-launcher) - A minimal android launcher with weather integration.
+- [ThomasNowProductions/YAM-Launcher](https://github.com/ThomasNowProductions/YAM-Launcher) - A minimal android launcher with weather integration.
 - [mobeil1/GuessIron](https://github.com/mobeil1/GuessIron) - 
 - [RayLeaf-Studios/PocketPlan](https://github.com/RayLeaf-Studios/PocketPlan) - A simplistic Android app, designed to take care of everyday tasks.
 - [SecUSo/privacy-friendly-battleship](https://github.com/SecUSo/privacy-friendly-battleship) - Privacy Friendly App for playing Battleship
@@ -910,6 +909,8 @@
 
 ## Python 
 
+- [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
 - [Lissy93/framework-benchmarks](https://github.com/Lissy93/framework-benchmarks) - 🌈 The same app built in 10 different frontend frameworks. For automated performance benchmarking
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1173,6 +1174,7 @@
 
 ## Shell 
 
+- [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [bvucode/crosvm-on-android](https://github.com/bvucode/crosvm-on-android) - crosvm on android 15 +
 - [polygraphene/gunyah-on-sd-guide](https://github.com/polygraphene/gunyah-on-sd-guide) - A guide to use gunyah VM on Android snapdragon devices with crosvm
 - [jorexdeveloper/termux-distro](https://github.com/jorexdeveloper/termux-distro) - Install Linux in Termux.
