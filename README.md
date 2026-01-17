@@ -565,7 +565,7 @@
 - [pwkip/contact-form-7-conditional-fields](https://github.com/pwkip/contact-form-7-conditional-fields) - Wordpress Plugin: Contact Form 7 Conditional Fields
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
 - [wavemakercards/wavemaker-v4](https://github.com/wavemakercards/wavemaker-v4) - The Version 4 release of wavemaker - Nov 2022
 - [NeverDecaf/chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
@@ -705,6 +705,7 @@
 
 ## Nix 
 
+- [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
 - [clan-lol/clan-infra](https://github.com/clan-lol/clan-infra) - Server infrastructure for the clan project [read-only mirror]
@@ -884,7 +885,7 @@
 - [10up/ElasticPress](https://github.com/10up/ElasticPress) - A fast and flexible search and query engine for WordPress.
 - [pantheon-systems/wp-redis](https://github.com/pantheon-systems/wp-redis) - WordPress Object Cache using Redis.
 - [pantheon-systems/solr-power](https://github.com/pantheon-systems/solr-power) - A WordPress plugin to connect to Pantheon's Apache Solr search infrastructure, or your own!
-- [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework WordPress plugin.
+- [sybrew/the-seo-framework](https://github.com/sybrew/the-seo-framework) - The SEO Framework plugin for WordPress
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql) - :rocket: GraphQL API for WordPress
 - [YahnisElsts/plugin-update-checker](https://github.com/YahnisElsts/plugin-update-checker) - A custom update checker for WordPress plugins. Useful if you don't want to host your project in the official WP repository, but would still like it to support automatic updates. Despite the name, it a
 - [ampproject/amp-wp](https://github.com/ampproject/amp-wp) - Enable AMP on your WordPress site, the WordPress way.
@@ -1067,6 +1068,7 @@
 
 ## Rust 
 
+- [tsirysndr/crosup](https://github.com/tsirysndr/crosup) - Quickly setup your development environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 🚀 ✨
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [bearcove/dodeca](https://github.com/bearcove/dodeca) - A salsa-infused static site generator
@@ -1269,6 +1271,9 @@
 
 ## TypeScript 
 
+- [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
+- [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
+- [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
 - [Automattic/studio](https://github.com/Automattic/studio) - WordPress Studio, a free desktop app that helps developers streamline their local WordPress development workflow.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
