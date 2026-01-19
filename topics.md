@@ -2739,6 +2739,7 @@
 
 ## others 
 
+- [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -3043,7 +3044,7 @@
 - [nenes25/hhpsmigrationupgradedb](https://github.com/nenes25/hhpsmigrationupgradedb) - Prestashop module with a command console to apply db migrations when upgrading prestashop
 - [nenes25/prestashop_console](https://github.com/nenes25/prestashop_console) - Prestashop Console Tools
 - [TeamEver/everpsblog](https://github.com/TeamEver/everpsblog) - Free blog module for Prestashop 1.7 & 8
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [GuitarML/NeuralPi](https://github.com/GuitarML/NeuralPi) - Raspberry Pi guitar pedal using neural networks to emulate real amps and effects.
