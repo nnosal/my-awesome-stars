@@ -336,7 +336,7 @@
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [YuukanOO/seelf](https://github.com/YuukanOO/seelf) - Lightweight self-hosted deployment platform written in Go
 - [ManeraKai/simplytranslate](https://github.com/ManeraKai/simplytranslate) - A privacy friendly frontend for multiple Translation Websites
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
+- [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
 - [qmexnetworks/3cx-zammad-bridge](https://github.com/qmexnetworks/3cx-zammad-bridge) - Monitors calls in 3CX and forwards this to Zammad
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -390,6 +390,7 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [adamziel/playground-docs-workflow](https://github.com/adamziel/playground-docs-workflow) - Experimenting with maintaining WordPress docs using WordPress Playground
+- [WordPress/blueprints](https://github.com/WordPress/blueprints) - Blueprints gallery and examples
 - [emn178/online-tools](https://github.com/emn178/online-tools) - Online tools provides md2, md5, sha1, sha2, sha512, bas64, html encode / decode functions
 - [zarfadev/MobaXterm-Keygen](https://github.com/zarfadev/MobaXterm-Keygen) - MobaXterm Key Generate
 - [torappinfo/uweb](https://github.com/torappinfo/uweb) - uweb browser: minimal suckless android web browser for geeks
@@ -852,7 +853,6 @@
 - [ProgressPlanner/blueprint-builder](https://github.com/ProgressPlanner/blueprint-builder) - A simple plugin to create a WordPress Playground blueprint from your current environment.
 - [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
 - [wp-privacy/wp-api-privacy](https://github.com/wp-privacy/wp-api-privacy) - A plugin for WordPress to restrict information passed via the WordPress HTTP API.   Not affiliated in any way, shape, or form with WordPress.org or Automattic.
-- [WordPress/blueprints](https://github.com/WordPress/blueprints) - Blueprints gallery and examples
 - [pentiminax/symfony-docker-mercure-boilerplate](https://github.com/pentiminax/symfony-docker-mercure-boilerplate) - Dépôt pour la création d'un chat en temps réel avec Symfony, Docker et Mercure.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [codersaiful/ultraaddons-elementor-lite](https://github.com/codersaiful/ultraaddons-elementor-lite) - UltraAddons Elementor Lite is a Elementor Addons Plugin and it has some Unique features and Ready made Widget. By using this plugin, You able to create a Full web site just by drag and drop.
