@@ -77,7 +77,6 @@
 
 ## C 
 
-- [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -101,7 +100,7 @@
 ## C# # 
 
 - [microsoft/winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app f
-- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) - Simple application for patching license activation amongst Affinity v3.x/v2.x/v1.x products.
+- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) - Simple application for patching license activation amongst Affinity v3.x/v2.x products.
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
@@ -610,6 +609,7 @@
 
 ## Kotlin 
 
+- [utkarshdalal/GameNative](https://github.com/utkarshdalal/GameNative) - Lightweight unofficial Steam client for Android
 - [dorumrr/privacyFlip](https://github.com/dorumrr/privacyFlip) - Stop leaking data and being tracked when your phone is locked. Automatic lock/unlock privacy control for rooted Android devices 🔐📱✨
 - [Raival-e/Prism-File-Explorer](https://github.com/Raival-e/Prism-File-Explorer) - A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.
 - [ONLYOFFICE/documents-app-android](https://github.com/ONLYOFFICE/documents-app-android) - 
@@ -1401,7 +1401,7 @@
 - [jdx/mise-action](https://github.com/jdx/mise-action) - 
 - [hverlin/mise-vscode](https://github.com/hverlin/mise-vscode) - VS Code extension for mise-en-place (https://mise.jdx.dev/)
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React with AI superpowers
+- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
 - [Davronov-Alimardon/canva-clone](https://github.com/Davronov-Alimardon/canva-clone) - A feature-rich graphic design SaaS platform with an intuitive editor for template customization, text/shape manipulation, and advanced drawing tools. Includes secure Stripe subscriptions and AI-powere
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
