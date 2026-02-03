@@ -767,6 +767,7 @@
 
 ## cli 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [microsoft/winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app f
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -2773,7 +2774,7 @@
 - [dorumrr/privacyFlip](https://github.com/dorumrr/privacyFlip) - Stop leaking data and being tracked when your phone is locked. Automatic lock/unlock privacy control for rooted Android devices 🔐📱✨
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [DeadlySquad13/Programming_dotfiles.bootstrap](https://github.com/DeadlySquad13/Programming_dotfiles.bootstrap) - 
-- [vikramsoni2/NextExplorer](https://github.com/vikramsoni2/NextExplorer) - Web based File Explorer
+- [nxzai/NextExplorer](https://github.com/nxzai/NextExplorer) - Web based File Explorer
 - [clan-lol/clan-infra](https://github.com/clan-lol/clan-infra) - Server infrastructure for the clan project [read-only mirror]
 - [ironicbadger/nix-config](https://github.com/ironicbadger/nix-config) - 
 - [beshrkayali/system](https://github.com/beshrkayali/system) - My system config
@@ -3351,6 +3352,7 @@
 
 ## python 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
@@ -3589,6 +3591,7 @@
 
 ## rust 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -3962,6 +3965,7 @@
 
 ## terminal 
 
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [TheAcharya/csv2notion-neo](https://github.com/TheAcharya/csv2notion-neo) - Upload & Merge CSV or JSON Data with Images to Notion Database
