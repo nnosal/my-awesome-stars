@@ -236,6 +236,7 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [micromdm/nanomdm](https://github.com/micromdm/nanomdm) - NanoMDM is a minimalist Apple MDM server and library heavily inspired by MicroMDM
 - [Br4v3St4rr/terraform-provider-unattend](https://github.com/Br4v3St4rr/terraform-provider-unattend) - An unattend.xml iso provider for Terraform
+- [muhlba91/pulumi-proxmoxve](https://github.com/muhlba91/pulumi-proxmoxve) - A Pulumi provider for creating and managing Proxmox VE resources
 - [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
@@ -411,7 +412,6 @@
 
 - [egdels/makeacopy](https://github.com/egdels/makeacopy) - MakeACopy is an open-source document scanner app for Android that allows you to digitize paper documents with OCR functionality. The app is designed to be privacy-friendly, working completely offline 
 - [senzhk/ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
-- [muhlba91/pulumi-proxmoxve](https://github.com/muhlba91/pulumi-proxmoxve) - A Pulumi provider for creating and managing Proxmox VE resources
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [TNG/ArchUnit](https://github.com/TNG/ArchUnit) - A Java architecture test library, to specify and assert architecture rules in plain Java
 - [openrewrite/rewrite-docker](https://github.com/openrewrite/rewrite-docker) - 
