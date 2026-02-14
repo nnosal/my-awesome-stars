@@ -581,7 +581,7 @@
 - [soulteary/docker-cronicle](https://github.com/soulteary/docker-cronicle) - Best Cron Docker Self-Hosted, Simple, lightweight, beautiful webui Cronjob / Scheduled task docker solution.
 - [Joolace/LeafLentor](https://github.com/Joolace/LeafLentor) - A WordPress plugin that integrates Leaflet as a widget for Elementor.
 - [WebDevStudios/wp-search-with-algolia](https://github.com/WebDevStudios/wp-search-with-algolia) - Improve search on your site. Autocomplete is included, along with full control over look, feel and relevance.
-- [dcooney/instant-images](https://github.com/dcooney/instant-images) - Instantly upload photos from Unsplash, Openverse, Pixabay, Giphy, and Pexels to your website without leaving WordPress.
+- [dcooney/instant-images](https://github.com/dcooney/instant-images) - One-click image uploads directly to your WordPress media library.
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
