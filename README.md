@@ -856,7 +856,7 @@
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
 - [codersaiful/ultraaddons-elementor-lite](https://github.com/codersaiful/ultraaddons-elementor-lite) - UltraAddons Elementor Lite is a Elementor Addons Plugin and it has some Unique features and Ready made Widget. By using this plugin, You able to create a Full web site just by drag and drop.
 - [modernaweb/black-widgets](https://github.com/modernaweb/black-widgets) - Black Widgets is a free add-on for Elementor page builder and you can add ability more customization with visual effect(s). like a fade animate for images and line border like what is used in Modernaw
-- [wpzoom/WPZOOM-Elementor-Addons](https://github.com/wpzoom/WPZOOM-Elementor-Addons) - A plugin that provides a collection of the Elementor Templates and advanced widgets created by WPZOOM team
+- [wpzoom/wpzoom-elementor-addons](https://github.com/wpzoom/wpzoom-elementor-addons) - A plugin that provides a collection of the Elementor Templates and advanced widgets created by WPZOOM team
 - [helloideabox/powerpack-lite-elementor](https://github.com/helloideabox/powerpack-lite-elementor) - A collection of 30+ Elementor Widgets like Image Hotspots, Logo Grid & Carousel, Dual Heading, Form stylers etc. Take Elementor to next level with PowerPack.
 - [team-leevio/happy-elementor-addons](https://github.com/team-leevio/happy-elementor-addons) - HappyAddons is a collection of slick, powerful widgets that works seamlessly with Elementor page builder
 - [devatiq/abcbiz-addons](https://github.com/devatiq/abcbiz-addons) - The Elementor Custom Widgets plugin by ABCBiz offers a Theme Builder, Pop-Ups, Forms, and WooCommerce tools to enhance your website’s look and feel.
@@ -1370,7 +1370,7 @@
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ShacharHarshuv/open-ear](https://github.com/ShacharHarshuv/open-ear) - 
-- [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
+- [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely.
 - [erosson/freecbt](https://github.com/erosson/freecbt) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [heylinda/heylinda-app](https://github.com/heylinda/heylinda-app) - The open source and free meditation app alternative for everyone. Built with React Native and Expo.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
