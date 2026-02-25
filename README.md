@@ -902,7 +902,7 @@
 - [short-pixel-optimizer/shortpixel-image-optimiser](https://github.com/short-pixel-optimizer/shortpixel-image-optimiser) - ShortPixel Image Optimizer WordPress Plugin
 - [short-pixel-optimizer/enable-media-replace](https://github.com/short-pixel-optimizer/enable-media-replace) - Enable Media Replace WordPress plugin
 - [WebDevStudios/custom-post-type-ui](https://github.com/WebDevStudios/custom-post-type-ui) - Admin UI settings for creating custom post types and taxonomies in WordPress
-- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
+- [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
 - [htmlburger/carbon-fields](https://github.com/htmlburger/carbon-fields) - WordPress Custom Fields Library ✨
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [Automattic/jetpack-production](https://github.com/Automattic/jetpack-production) - [READ ONLY] Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.  This repository is a mirror, f
@@ -1311,7 +1311,7 @@
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
-- [mnfst/manifest](https://github.com/mnfst/manifest) - OpenClaw Real-time Cost Observability
+- [mnfst/manifest](https://github.com/mnfst/manifest) - Cut OpenClaw Costs up to 90% Keeping Your Data Safe.
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
