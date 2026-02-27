@@ -218,6 +218,7 @@
 
 ## Go 
 
+- [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [andreybleme/lazycontainer](https://github.com/andreybleme/lazycontainer) - Fancy terminal UI for Apple Containers
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -715,6 +716,7 @@
 
 ## Nix 
 
+- [adfaure/flake-containers](https://github.com/adfaure/flake-containers) - A proof of concept project for defining NixOS containers (systemd-nspawn) in a flake.nix file.
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
@@ -921,6 +923,7 @@
 
 ## Python 
 
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
@@ -1076,6 +1079,7 @@
 
 ## Rust 
 
+- [YeDawa/DumpSync](https://github.com/YeDawa/DumpSync) - DumpSync is a lightweight tool designed for efficiently dumping and restoring MySQL databases. Whether you need to create backups, restore databases, or transfer data between servers.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -1191,6 +1195,8 @@
 
 ## Shell 
 
+- [aniketkarne/ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically
+- [joknarf/thefly](https://github.com/joknarf/thefly) - shell teleporter plugin/dotfiles manager (bash/zsh/ksh)
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
@@ -1254,6 +1260,7 @@
 
 ## Swift 
 
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [mikker/LeaderKey](https://github.com/mikker/LeaderKey) - The *faster than your launcher* launcher
@@ -1286,6 +1293,7 @@
 
 ## TypeScript 
 
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
@@ -1368,7 +1376,7 @@
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
-- [vendurehq/vendure](https://github.com/vendurehq/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
+- [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open source headless commerce framework built with TypeScript, NestJS, React and GraphQL
 - [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
