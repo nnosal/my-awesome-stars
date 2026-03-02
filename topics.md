@@ -614,7 +614,7 @@
 
 ## awesome 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -627,7 +627,7 @@
 
 ## awesome-list 
 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
@@ -1197,7 +1197,6 @@
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [soyuka/php-wasm](https://github.com/soyuka/php-wasm) - PHP WebAssembly docker image. Original Project by Oraoto and Sean Morris.
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -1803,6 +1802,7 @@
 
 ## homebrew 
 
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 - [tsirysndr/crosup](https://github.com/tsirysndr/crosup) - Quickly setup your development environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 🚀 ✨
 - [bkuhlmann/mac_os](https://github.com/bkuhlmann/mac_os) - Shell scripts for automated macOS machine setup.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
@@ -2306,6 +2306,7 @@
 
 ## macos 
 
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
@@ -2769,6 +2770,7 @@
 
 ## others 
 
+- [gaambo/deployer-wordpress](https://github.com/gaambo/deployer-wordpress) - Deployer tasks for deploying WordPress Sites
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) - Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
@@ -3192,6 +3194,7 @@
 
 ## php 
 
+- [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [codesnippetspro/code-snippets](https://github.com/codesnippetspro/code-snippets) - Code Snippets WordPress Plugin
 - [mlocati/docker-php-extension-installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers
