@@ -670,6 +670,7 @@
 
 ## bash 
 
+- [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [joknarf/thefly](https://github.com/joknarf/thefly) - shell teleporter plugin/dotfiles manager (bash/zsh/ksh)
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
@@ -861,6 +862,7 @@
 
 ## cms 
 
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [marcantondahmen/automad](https://github.com/marcantondahmen/automad) - A flat-file content management system and template engine
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -1576,6 +1578,7 @@
 
 ## golang 
 
+- [smheidrich/non-go-terraform-provider-assessment](https://github.com/smheidrich/non-go-terraform-provider-assessment) - How difficult is it to write a Terraform provider in a language other than Go?
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [cirruslabs/cirrus-cli](https://github.com/cirruslabs/cirrus-cli) - CLI for executing Cirrus tasks locally and in any CI
@@ -1953,6 +1956,7 @@
 
 ## javascript 
 
+- [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [tidalcycles/strudel](https://github.com/tidalcycles/strudel) - MOVED TO CODEBERG - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
@@ -2788,6 +2792,7 @@
 
 ## others 
 
+- [aneoconsulting/tf-provider](https://github.com/aneoconsulting/tf-provider) - Plugin framework for Terraform and ToFu in Rust
 - [deepakbackuply/softaculous_api](https://github.com/deepakbackuply/softaculous_api) - Softaculous API
 - [gaambo/deployer-wordpress](https://github.com/gaambo/deployer-wordpress) - Deployer tasks for deploying WordPress Sites
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -2813,7 +2818,6 @@
 - [chamburr/glance](https://github.com/chamburr/glance) - 🔎 All-in-one Quick Look plugin
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [bvucode/crosvm-on-android](https://github.com/bvucode/crosvm-on-android) - Debian, Arch Linux ARM for non-protected VM with Crosvm on Android 15 +
 - [polygraphene/gunyah-on-sd-guide](https://github.com/polygraphene/gunyah-on-sd-guide) - A guide to use gunyah VM on Android snapdragon devices with crosvm
 - [google/crosvm](https://github.com/google/crosvm) - The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/
 - [egdels/makeacopy](https://github.com/egdels/makeacopy) - MakeACopy is an open-source document scanner app for Android that allows you to digitize paper documents with OCR functionality. The app is designed to be privacy-friendly, working completely offline 
@@ -3209,10 +3213,12 @@
 
 ## perl 
 
+- [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
 - [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 
 ## php 
 
+- [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [codesnippetspro/code-snippets](https://github.com/codesnippetspro/code-snippets) - Code Snippets WordPress Plugin
@@ -3406,6 +3412,8 @@
 
 ## python 
 
+- [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
+- [smheidrich/non-go-terraform-provider-assessment](https://github.com/smheidrich/non-go-terraform-provider-assessment) - How difficult is it to write a Terraform provider in a language other than Go?
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience.
@@ -4065,6 +4073,8 @@
 
 ## terraform 
 
+- [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
+- [smheidrich/non-go-terraform-provider-assessment](https://github.com/smheidrich/non-go-terraform-provider-assessment) - How difficult is it to write a Terraform provider in a language other than Go?
 - [sudo-kraken/terraform-gcp-ubuntu-container-ready-e2-micro-vm](https://github.com/sudo-kraken/terraform-gcp-ubuntu-container-ready-e2-micro-vm) - Deploys An Ubuntu Virtual Machine with Docker and Docker Compose Installed in GCP using Terraform
 - [sudo-kraken/oci-free-terraform-stack](https://github.com/sudo-kraken/oci-free-terraform-stack) - OCI Terraform Module: Automated deployment of OCI resources, including multiple compute instances, additional storage, and network setup, managed via GitHub Actions with Docker and Docker Compose inte
 - [stephrobert/awesome-french-devops](https://github.com/stephrobert/awesome-french-devops) - Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops
