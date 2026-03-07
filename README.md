@@ -132,7 +132,7 @@
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [mises-id/mises-browser-core](https://github.com/mises-id/mises-browser-core) - 
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
@@ -463,7 +463,7 @@
 - [CatimaLoyalty/Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
-- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [AnySoftKeyboard/AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages.
 - [henrichg/PhoneProfilesPlus](https://github.com/henrichg/PhoneProfilesPlus) - Profile manager for Android - event triggered
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
@@ -929,6 +929,7 @@
 
 ## Python 
 
+- [datagouv/datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -1323,7 +1324,7 @@
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [abcoder0101/perfex-dev-tools](https://github.com/abcoder0101/perfex-dev-tools) - Perfex Dev Tools is a Visual Studio Code extension designed to streamline the development of modules and themes for Perfex CRM. With powerful scaffolding tools and a rich set of code snippets, it sign
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
@@ -1481,7 +1482,6 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
-- [mrmps/SMRY](https://github.com/mrmps/SMRY) - A tool to get summaries and get past paywalls
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
