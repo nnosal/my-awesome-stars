@@ -1275,6 +1275,7 @@
 
 ## Swift 
 
+- [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
 - [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) - Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [stonerl/Thaw](https://github.com/stonerl/Thaw) - Menu bar manager for macOS 26
