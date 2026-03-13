@@ -337,7 +337,7 @@
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking tool. Capture thoughts instantly, own them completely — no tracking, no ads, no subscription fees.
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [YuukanOO/seelf](https://github.com/YuukanOO/seelf) - Lightweight self-hosted deployment platform written in Go
 - [ManeraKai/simplytranslate](https://github.com/ManeraKai/simplytranslate) - A privacy friendly frontend for multiple Translation Websites
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -1116,7 +1116,7 @@
 - [rust-disk-partition-management/gptman](https://github.com/rust-disk-partition-management/gptman) - A GPT manager that allows you to copy partitions from one disk to another and more
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs) - macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [sfeSantos/mockiapi](https://github.com/sfeSantos/mockiapi) - A powerful and easy-to-use mock API server that allows you to define endpoints, return custom JSON responses, and simulate real-world API behavior.
 - [mocks-rs/mocks](https://github.com/mocks-rs/mocks) - Mock REST APIs from JSON with zero coding within seconds.
 - [tsirysndr/replay](https://github.com/tsirysndr/replay) - Sniff and replay HTTP requests and responses — perfect for mocking APIs during testing.
