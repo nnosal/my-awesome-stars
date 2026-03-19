@@ -74,6 +74,7 @@
 
 ## Blade 
 
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
@@ -220,6 +221,8 @@
 
 ## Go 
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
 - [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
 - [dolthub/doltgresql](https://github.com/dolthub/doltgresql) - DoltgreSQL - Version Controlled PostgreSQL
@@ -847,7 +850,6 @@
 - [lesterchan/wp-sweep](https://github.com/lesterchan/wp-sweep) - WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. It also optimizes your database tables.
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
-- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) - Free and Open Source ERP platform
 - [unopim/unopim](https://github.com/unopim/unopim) - A free and open-source Laravel-based Product Information Management (PIM) system that helps businesses organize, manage, and enrich their product data from a single, central platform. Learn how UnoPIM
@@ -1104,6 +1106,7 @@
 
 ## Rust 
 
+- [fenio/anylinuxfs-gui](https://github.com/fenio/anylinuxfs-gui) - macOS GUI for anylinuxfs
 - [nikhilunni/demucs-rs](https://github.com/nikhilunni/demucs-rs) - Rust powered waveform source separation
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
 - [aneoconsulting/tf-provider](https://github.com/aneoconsulting/tf-provider) - Plugin framework for Terraform and ToFu in Rust
@@ -1287,7 +1290,6 @@
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [texm/shokku](https://github.com/texm/shokku) - a web interface for Dokku
-- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
@@ -1481,7 +1483,7 @@
 - [DefGuard/client](https://github.com/DefGuard/client) - Sole VPN client implementing Multi-Factor Authentication on WireGuard® VPN connection
 - [FPurchess/blank](https://github.com/FPurchess/blank) - :pencil: Blank is a minimalist, opinionated markdown editor made for writing
 - [l1xnan/duckling](https://github.com/l1xnan/duckling) - A fast viewer for CSV/Parquet files and databases such as DuckDB, SQLite, PostgreSQL, MySQL, Clickhouse, etc., base on Tauri
-- [invm/noir](https://github.com/invm/noir) - 🕵️‍♂️ Noir - keyboard driven database management client for Postgresql, MySQL, MariaDB and SQLite.
+- [invm/noir](https://github.com/invm/noir) - 🕵️‍♂️ Noir - keyboard driven database management client for Postgresql, MySQL, MariaDB, SQLite and Clickhouse.
 - [zhanglun/lettura](https://github.com/zhanglun/lettura) - another rss reader
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -1491,6 +1493,7 @@
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
+- [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [zokugun/vscode-vsix-manager](https://github.com/zokugun/vscode-vsix-manager) - Install extensions from your own sources
 - [tom-james-watson/breaktimer-app](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
