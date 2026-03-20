@@ -101,7 +101,7 @@
 ## C# # 
 
 - [microsoft/winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app f
-- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) - Simple application for patching license activation amongst Affinity v3.x/v2.x products.
+- [Still34/AffinityPatcher](https://github.com/Still34/AffinityPatcher) - Simple application for patching license activation amongst Affinity products.
 - [cschneegans/unattend-generator](https://github.com/cschneegans/unattend-generator) - .NET Core library to create highly customized autounattend.xml files
 - [microsoft/Oryx](https://github.com/microsoft/Oryx) - Build your repo automatically.
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
@@ -498,6 +498,7 @@
 
 ## JavaScript 
 
+- [dmnsgn/canvas-record](https://github.com/dmnsgn/canvas-record) - Record a video in the browser or directly on the File System from a canvas region (2D/WebGL/WebGPU) as MP4, WebM, MKV, MOV, GIF, PNG/JPG Sequence using WebCodecs and Wasm when available.
 - [ysdede/parakeet.js](https://github.com/ysdede/parakeet.js) - NVIDIA Parakeet speech recognition for the browser (WebGPU/WASM) powered by ONNX Runtime Web
 - [pandoc/pandoc-wasm](https://github.com/pandoc/pandoc-wasm) - Pandoc for WebAssembly
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -1282,6 +1283,7 @@
 
 ## Svelte 
 
+- [Gokul-Raj-R-Coder/local-converter](https://github.com/Gokul-Raj-R-Coder/local-converter) - LocalConvert runs the entire conversion inside your browser using WebAssembly — the same technology that powers browser-based games and desktop-class apps in the browser.  What can it do? Supported ou
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so) - Shorten, customize, and track your links with Fli.so. The easiest way to manage your links, all in one platform.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -1410,7 +1412,7 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Build AI Agents the easy way. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀  AI Workflow toolkit
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
