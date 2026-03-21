@@ -141,7 +141,7 @@
 - [GuitarML/NeuralPi](https://github.com/GuitarML/NeuralPi) - Raspberry Pi guitar pedal using neural networks to emulate real amps and effects.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - the GPU-native, sandboxed Postgres for AI agents
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database that spins up instantly, scale per request, and drop to zero when idle. Multimodal retrieval and streaming to training PyTorch.
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [apple/foundationdb](https://github.com/apple/foundationdb) - FoundationDB - the open source, distributed, transactional key-value store
 
@@ -389,7 +389,6 @@
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
 - [six-two/qr.html](https://github.com/six-two/qr.html) - A standalone offline HTML5 QR code generator
 - [shahrviral/Mac-Setup](https://github.com/shahrviral/Mac-Setup) - Buy me a coffee / book / beer
-- [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) - 
 - [pretty-clean/pretty-clean.github.io](https://github.com/pretty-clean/pretty-clean.github.io) - 
 - [AravindGopala/pdf_highlight_extractor](https://github.com/AravindGopala/pdf_highlight_extractor) - Extracts highlights from PDF documents as a summary
@@ -513,6 +512,7 @@
 - [dortania/GPU-Buyers-Guide](https://github.com/dortania/GPU-Buyers-Guide) - Repo for GPU Buyers Guide
 - [CodeJawn/karakeep-homedash](https://github.com/CodeJawn/karakeep-homedash) - 
 - [jhpyle/docassemble](https://github.com/jhpyle/docassemble) - A free, open-source expert system for guided interviews and document assembly, based on Python, YAML, and Markdown.
+- [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
@@ -1191,7 +1191,7 @@
 - [nidnogg/zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous snapshots of system information
 - [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation
 - [proxmox/proxmox-backup](https://github.com/proxmox/proxmox-backup) - Proxmox Backup Server and Client - read only mirror
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
