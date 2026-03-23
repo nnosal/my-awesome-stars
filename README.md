@@ -247,7 +247,7 @@
 - [blob42/gosuki](https://github.com/blob42/gosuki) - A lightweight, open-source, privacy-first bookmark manager that unifies your bookmarks across multiple browsers, syncs them in real time (locally or P2P), requires no extensions, and stores everything
 - [PlakarKorp/plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 - [johnste/finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start
-- [keploy/keploy](https://github.com/keploy/keploy) - API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs!
+- [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [render-oss/terraform-provider-render](https://github.com/render-oss/terraform-provider-render) - Source code for the official Render Terraform provider
 - [fnproject/fn](https://github.com/fnproject/fn) - The container native, cloud agnostic serverless platform.
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API
@@ -736,7 +736,7 @@
 - [carlthome/dotfiles](https://github.com/carlthome/dotfiles) - My idiosyncratic config for personal computing
 - [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config) - My NixOS configurations.
 - [yusefnapora/nix-config](https://github.com/yusefnapora/nix-config) - My NixOS, nix-darwin and home-manager configs
-- [shayne/nixos-config](https://github.com/shayne/nixos-config) - 
+- [shayne/nixos-config](https://github.com/shayne/nixos-config) - Nix-managed nix-darwin and Home Manager configs for my macOS systems.
 - [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) - Wimpy's NixOS, nix-darwin  & Home Manager Configurations ❄️
 - [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [numtide/nix-vm-test](https://github.com/numtide/nix-vm-test) - Re-use the NixOS VM test infrastructure to test Ubuntu, Debian, and Fedora machines.
