@@ -287,7 +287,7 @@
 - [hyperb1iss/git-iris](https://github.com/hyperb1iss/git-iris) - An intelligent agent that understands your code and crafts perfect Git artifacts
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 
 ## ai 
 
@@ -339,7 +339,7 @@
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly generating and executing shell snippets without leaving the terminal.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -940,7 +940,7 @@
 
 - [connervieira/Predator](https://github.com/connervieira/Predator) - The ultimate customizable dash-cam platform, with ALPR and object recognition capabilities
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 
 ## continuous-integration 
 
@@ -1085,7 +1085,7 @@
 - [FzS92/smart-pdf-highlighter](https://github.com/FzS92/smart-pdf-highlighter) - Automatically identify and highlight key content within PDF files using advanced AI techniques, simplifying the process of reading books and papers.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 
 ## deno 
 
@@ -2311,7 +2311,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 
@@ -3571,7 +3571,7 @@
 ## pytorch 
 
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
 
 ## qt 
@@ -3599,7 +3599,7 @@
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Structured data extraction and instruction calling with ML, LLM and Vision LLM
-- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is a unified context engine for AI agents such as OpenClaw. By structuring memory, database, and skills in filesystem-like format, it enables scalable context management and continuous learni
+- [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [swirlai/swirl-search](https://github.com/swirlai/swirl-search) - AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.
 
@@ -3801,7 +3801,7 @@
 
 ## security 
 
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent plugin that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
