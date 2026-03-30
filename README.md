@@ -79,6 +79,7 @@
 
 ## C 
 
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [pbatard/uefi-ntfs](https://github.com/pbatard/uefi-ntfs) - UEFI:NTFS - Boot NTFS or exFAT partitions from UEFI
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [libimobiledevice/libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
@@ -862,7 +863,7 @@
 - [SymfonyCasts/dynamic-forms](https://github.com/SymfonyCasts/dynamic-forms) - Add dynamic/dependent fields to Symfony forms
 - [mcp-wp/ai-command](https://github.com/mcp-wp/ai-command) - Control WordPress using WP-CLI, AI, and MCP.
 - [ProgressPlanner/blueprint-builder](https://github.com/ProgressPlanner/blueprint-builder) - A simple plugin to create a WordPress Playground blueprint from your current environment.
-- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress
+- [johnbillion/query-monitor](https://github.com/johnbillion/query-monitor) - The developer tools panel for WordPress and WooCommerce
 - [wp-privacy/wp-api-privacy](https://github.com/wp-privacy/wp-api-privacy) - A plugin for WordPress to restrict information passed via the WordPress HTTP API.   Not affiliated in any way, shape, or form with WordPress.org or Automattic.
 - [pentiminax/symfony-docker-mercure-boilerplate](https://github.com/pentiminax/symfony-docker-mercure-boilerplate) - Dépôt pour la création d'un chat en temps réel avec Symfony, Docker et Mercure.
 - [seanmorris/php-wasm](https://github.com/seanmorris/php-wasm) - PHP in Browser, powered by WebAssembly.
@@ -937,6 +938,10 @@
 
 ## Python 
 
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industr
+- [AgriciDaniel/banana-claude](https://github.com/AgriciDaniel/banana-claude) - AI image generation skill for Claude Code -- Creative Director powered by Gemini
+- [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code skill ecosystem for blog content creation, optimization, and management. Dual-optimized for Google rankings and AI citations.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 13 sub-skills, 7 subagents, extensions system with DataForSEO MCP integration. Technical SEO, E-E-A-T, schema, GEO/AEO, and strategic planning.
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [Maxteabag/sqlit](https://github.com/Maxteabag/sqlit) - A user friendly TUI for SQL databases. Written in python. Supports SQL server, Mysql, PostreSQL, SQLite, Turso and more.
 - [mainza-ai/milimovideo](https://github.com/mainza-ai/milimovideo) - The AI-Native Cinematic Studio. A professional Non-Linear Editor (NLE) for filmmakers.
@@ -1334,6 +1339,8 @@
 
 ## TypeScript 
 
+- [Slashgear/roadmap-maker](https://github.com/Slashgear/roadmap-maker) - Self-hosted roadmap builder with Gantt chart visualization. Built with Hono, Preact, SQLite and Bun.
+- [Slashgear/poker-planning](https://github.com/Slashgear/poker-planning) - Real-time poker planning app for agile team estimation   using Fibonacci sequence
 - [msgbyte/cutia](https://github.com/msgbyte/cutia) - An open-source, in-browser alternative to CapCut.
 - [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms) - 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
