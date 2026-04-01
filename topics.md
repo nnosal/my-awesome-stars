@@ -295,7 +295,7 @@
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
@@ -348,7 +348,7 @@
 ## ai-agents 
 
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - 
@@ -396,7 +396,7 @@
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
 - [Xed-Editor/Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
@@ -960,7 +960,7 @@
 
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -969,7 +969,7 @@
 ## csharp 
 
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary) - 侠客日记是一个开源、跨平台的本地日记app，使用Blazor开发，支持Android，Windows，macOS，Web，Linux。"SwashbucklerDiary" is an open source cross-platform local diary app using Blazor , support Android，Windows，macOS，Web，Linux.
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
@@ -1090,6 +1090,7 @@
 
 ## deno 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
@@ -1288,7 +1289,7 @@
 ## dotnet 
 
 - [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
 - [Axym-Labs/LetoReader](https://github.com/Axym-Labs/LetoReader) - A free self-hostable speed reader. Highly customizable. Implements chunking (RSVP), pacing and highlighting. Modern UI and local-storage only.
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
@@ -1679,7 +1680,7 @@
 
 - [PaulleDemon/PyUIBuilder](https://github.com/PaulleDemon/PyUIBuilder) - Python GUI builder. GUI builder for Tkinter, CustomTkinter, Kivy(upcoming) and PySide
 - [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [ivangabriele/clamav-desktop](https://github.com/ivangabriele/clamav-desktop) - Cross-platform Desktop GUI for ClamAV antivirus.
@@ -1905,7 +1906,7 @@
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open-source tool to monitor mobile apps. We connect the dots between user actions, app events, network calls, logs, and errors to make debugging production issues easy!
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
@@ -2248,7 +2249,7 @@
 - [TheAcharya/csv2notion-neo](https://github.com/TheAcharya/csv2notion-neo) - Upload & Merge CSV or JSON Data with Images to Notion Database
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [kra-mo/cartridges](https://github.com/kra-mo/cartridges) - Mirrored from https://codeberg.org/kramo/cartridges
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
@@ -2294,7 +2295,7 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -2414,7 +2415,7 @@
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [cyanfish/naps2](https://github.com/cyanfish/naps2) - Scan documents to PDF and more, as simply as possible.
@@ -2465,7 +2466,7 @@
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
@@ -2531,7 +2532,7 @@
 ## mobile 
 
 - [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Measure is an open-source tool to monitor mobile apps. We connect the dots between user actions, app events, network calls, logs, and errors to make debugging production issues easy!
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
 - [timer-machine/timer-machine-android](https://github.com/timer-machine/timer-machine-android) - ⏲ A highly customizable interval timer app for Android
@@ -2695,6 +2696,7 @@
 
 ## nodejs 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [ItsEcholot/ContainerNursery](https://github.com/ItsEcholot/ContainerNursery) - Puts Docker Containers to sleep and wakes them back up when they're needed
@@ -4191,6 +4193,7 @@
 
 ## testing 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
 - [keploy/keploy](https://github.com/keploy/keploy) - Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [jetmore/swaks](https://github.com/jetmore/swaks) - Swaks - Swiss Army Knife for SMTP
@@ -4235,6 +4238,7 @@
 
 ## typescript 
 
+- [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
 - [Slashgear/roadmap-maker](https://github.com/Slashgear/roadmap-maker) - Self-hosted roadmap builder with Gantt chart visualization. Built with Hono, Preact, SQLite and Bun.
 - [Slashgear/poker-planning](https://github.com/Slashgear/poker-planning) - Real-time poker planning app for agile team estimation   using Fibonacci sequence
 - [Gokul-Raj-R-Coder/local-converter](https://github.com/Gokul-Raj-R-Coder/local-converter) - LocalConvert runs the entire conversion inside your browser using WebAssembly — the same technology that powers browser-based games and desktop-class apps in the browser.  What can it do? Supported ou
@@ -4470,7 +4474,7 @@
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
 - [oneclickvirt/pve](https://github.com/oneclickvirt/pve) - 用于 Proxmox VE 的多架构一键服务器部署，支持批量或单独开设虚拟机，内置内外网端口转发和NAT，兼容 ARM64 与 AMD64 架构 One-click server deployment for Proxmox VE, supporting bulk or individual VM provisioning with built-in internal/external port 
 - [TheAcharya/csv2notion-neo](https://github.com/TheAcharya/csv2notion-neo) - Upload & Merge CSV or JSON Data with Images to Notion Database
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [layground/pockaw](https://github.com/layground/pockaw) - Pockaw is a free and simple budgeting app designed to help you manage your finances with ease. Track expenses, monitor income, set budget goals, and visualize spending trends—all in one place.
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
@@ -4500,6 +4504,7 @@
 
 ## wordpress 
 
+- [WPManageNinja/easy-code-manager](https://github.com/WPManageNinja/easy-code-manager) - The High-Performance File Based Code Snippet Plugin for WP
 - [codesnippetspro/code-snippets](https://github.com/codesnippetspro/code-snippets) - Code Snippets WordPress Plugin
 - [ibericode/koko-analytics](https://github.com/ibericode/koko-analytics) - Privacy-friendly, open-source analytics for WordPress — GDPR compliant, cookieless, and fast
 - [Automattic/studio](https://github.com/Automattic/studio) - WordPress Studio, a free desktop app that helps developers streamline their local WordPress development workflow.
@@ -4530,7 +4535,7 @@
 
 ## xamarin 
 
-- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 
 ## xcode 
 
