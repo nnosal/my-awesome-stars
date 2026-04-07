@@ -448,7 +448,6 @@
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [SecUSo/privacy-friendly-qr-scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner) - Privacy Friendly QR Code Scanner for Android
 - [DevEmperor/Dictate](https://github.com/DevEmperor/Dictate) - A powerful Whisper AI keyboard for reliable speech transcription
-- [m-i-n-a-r/randomix](https://github.com/m-i-n-a-r/randomix) - 🎲 An open source app to choose randomly between numbers, answers, options and so on
 - [woheller69/omweather](https://github.com/woheller69/omweather) - 
 - [woheller69/Level](https://github.com/woheller69/Level) - Android spirit level & ruler
 - [SecUSo/privacy-friendly-2048](https://github.com/SecUSo/privacy-friendly-2048) - 
@@ -545,7 +544,7 @@
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) - Acode - powerful text/code editor for android
 - [nrenner/brouter-web](https://github.com/nrenner/brouter-web) - Web client for BRouter, a routing engine based on OpenStreetMap
-- [milesburton/teslacam](https://github.com/milesburton/teslacam) - 🚗📹 Tesla Dash Cam Footage Management System | Automate video backup, cloud storage, and remote access for Tesla's built-in dash cam using a Raspberry Pi Zero W. Extract, store, and sync your driving f
+- [milesburton/teslacam](https://github.com/milesburton/teslacam) - Tesla Dash Cam Footage Management System | Automate video backup, cloud storage, and remote access for Tesla's built-in dash cam using a Raspberry Pi Zero W.
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [thevahidal/soul](https://github.com/thevahidal/soul) - 🕉 Soul | Automatic SQLite RESTful  and realtime API server | Build CRUD APIs in minutes!
 - [heiseonline/shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
@@ -643,7 +642,7 @@
 - [MaintainTeam/Hypatia](https://github.com/MaintainTeam/Hypatia) - A realtime malware scanner (fork of Divestos version)| Maintained by: @Inhishonor
 - [GitaristErik/GuitarTuner](https://github.com/GitaristErik/GuitarTuner) - Tune your guitar with ease using this precise and user-friendly tuner app. Featuring multiple tuning algorithms, customizable presets, and a noise reduction feature, this app ensures your guitar is al
 - [igrek51/android-songbook](https://github.com/igrek51/android-songbook) - Songbook for Android - Song lyrics viewer with chords for guitar, piano and singing
-- [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android with support for custom tunings.
+- [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
 - [mwdle/another-widget](https://github.com/mwdle/another-widget) - Watch events, weather and much more at a glance.
 - [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
@@ -666,8 +665,10 @@
 - [jd1378/otphelper](https://github.com/jd1378/otphelper) - open-source application that can copy OTP and codes from notifications automatically for you
 - [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
+- [m-i-n-a-r/randomix](https://github.com/m-i-n-a-r/randomix) - 🎲 An open source app to choose randomly between numbers, answers, options and so on
 - [m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday) - 🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar
 - [woheller69/whoBIRD](https://github.com/woheller69/whoBIRD) - Identify bird sounds in real time with this Android version of BirdNET. Bird sound recognition for more than 6,000 species worldwide.
+- [thomasboom/YAM-Launcher](https://github.com/thomasboom/YAM-Launcher) - A minimal android launcher with weather integration.
 - [mobeil1/GuessIron](https://github.com/mobeil1/GuessIron) - 
 - [RayLeaf-Studios/PocketPlan](https://github.com/RayLeaf-Studios/PocketPlan) - A simplistic Android app, designed to take care of everyday tasks.
 - [SecUSo/privacy-friendly-battleship](https://github.com/SecUSo/privacy-friendly-battleship) - Privacy Friendly App for playing Battleship
@@ -1341,6 +1342,7 @@
 
 ## TypeScript 
 
+- [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou
 - [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
