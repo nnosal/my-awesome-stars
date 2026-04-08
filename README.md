@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
 - [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
@@ -391,7 +392,6 @@
 - [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) - 
 - [pretty-clean/pretty-clean.github.io](https://github.com/pretty-clean/pretty-clean.github.io) - 
 - [AravindGopala/pdf_highlight_extractor](https://github.com/AravindGopala/pdf_highlight_extractor) - Extracts highlights from PDF documents as a summary
-- [zacfrulloni/Prompt-Engineering-Holy-Grail](https://github.com/zacfrulloni/Prompt-Engineering-Holy-Grail) - setup openclaw: https://remoteopenclaw.com/
 - [typicode/jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [microweber/microweber](https://github.com/microweber/microweber) - Drag and Drop Website Builder and CMS with E-commerce
@@ -484,6 +484,7 @@
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [Divested-Mobile/Hypatia](https://github.com/Divested-Mobile/Hypatia) - A realtime malware scanner
 - [Swati4star/Images-to-PDF](https://github.com/Swati4star/Images-to-PDF) - An app to convert images to PDF file!
+- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
@@ -516,7 +517,6 @@
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
-- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [niklauslee/frame0-mcp-server](https://github.com/niklauslee/frame0-mcp-server) - 
 - [wonderunit/storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
@@ -701,7 +701,6 @@
 - [futo-org/grayjay-android](https://github.com/futo-org/grayjay-android) - Read-only mirror of Grayjay repo for issue tracking
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [whyorean/AuroraStore](https://github.com/whyorean/AuroraStore) - 
-- [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android) - Native Android app for Habitica
 - [FossifyOrg/Messages](https://github.com/FossifyOrg/Messages) - An easy and quick way of managing SMS and MMS messages without ads.
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests and more
@@ -729,6 +728,7 @@
 ## Nix 
 
 - [adfaure/flake-containers](https://github.com/adfaure/flake-containers) - A proof of concept project for defining NixOS containers (systemd-nspawn) in a flake.nix file.
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [badele/nix-homelab](https://github.com/badele/nix-homelab) - Homelab and dotfiles made with NixOS
@@ -792,7 +792,6 @@
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
 - [editor-js/awesome-editorjs](https://github.com/editor-js/awesome-editorjs) - 🤩 A curated list of awesome Editor.js tools, libraries and resources.
 - [culturegouv/seda](https://github.com/culturegouv/seda) - 
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [marta-file-manager/marta-issues](https://github.com/marta-file-manager/marta-issues) - An issue tracker for Marta File Manager.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
@@ -1120,7 +1119,6 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
-- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [tsirysndr/crosup](https://github.com/tsirysndr/crosup) - Quickly setup your development environment on your Chromebook/ChromeOS , MacOS or any Linux distribution 🐧 ❄️ 💻 🚀 ✨
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -1396,6 +1394,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode) - Biome extension for VS Code
 - [pk504b/tailwind-cheatsheet](https://github.com/pk504b/tailwind-cheatsheet) - Tailwind CSS Cheatsheet SPA
+- [altcha-org/altcha](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism.
 - [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️
