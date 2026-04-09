@@ -318,6 +318,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [neuron-core/neuron-ai](https://github.com/neuron-core/neuron-ai) - The PHP Agentic Framework to build production-ready AI driven applications. Connect components (LLMs, vector DBs, memory) to agents that can interact with your data. With its modular architecture it's
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - A Modern Code Editor for Android
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
@@ -336,7 +337,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly generating and executing shell snippets without leaving the terminal.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [drl990114/MarkFlowy](https://github.com/drl990114/MarkFlowy) - The AI Markdown Editor
@@ -783,7 +784,7 @@
 
 ## claude-code 
 
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Claude Code skills that turn any codebase into an interactive knowledge graph you can explore, search, and ask questions about (Multi-platform e.g., Codex are supported).
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI,
 - [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) - Comprehensive paid advertising audit & optimization skill for Claude Code. 186 checks across Google, Meta, YouTube, LinkedIn, TikTok & Microsoft Ads with weighted scoring, parallel agents, and industr
 - [AgriciDaniel/banana-claude](https://github.com/AgriciDaniel/banana-claude) - AI image generation skill for Claude Code -- Creative Director powered by Gemini
 - [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) - Claude Code skill ecosystem for blog content creation, optimization, and management. Dual-optimized for Google rankings and AI citations.
@@ -1721,6 +1722,7 @@
 
 ## hacktoberfest 
 
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Sylius app skeleton
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [PrestaShop/docs](https://github.com/PrestaShop/docs) - PrestaShop technical documentation
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
@@ -2532,6 +2534,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [mcp-wp/ai-command](https://github.com/mcp-wp/ai-command) - Control WordPress using WP-CLI, AI, and MCP.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [garylab/MakeMoneyWithAI](https://github.com/garylab/MakeMoneyWithAI) - A list of open-source AI projects you can use to generate income easily.
 - [hyperb1iss/droidmind](https://github.com/hyperb1iss/droidmind) - Control your Android devices with AI using Model Context Protocol
@@ -2704,7 +2707,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 
@@ -2882,6 +2885,7 @@
 
 ## others 
 
+- [carboxyl-rs/carboxyl](https://github.com/carboxyl-rs/carboxyl) - Chromium running inside your terminal (fork of carbonyl)
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [benjojo/hot-clone](https://github.com/benjojo/hot-clone) - Progressively image a mounted disk correctly without corruption
@@ -3316,6 +3320,7 @@
 
 ## php 
 
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Sylius app skeleton
 - [idno/idno](https://github.com/idno/idno) - A social publishing platform.
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 - [carthage-software/mago](https://github.com/carthage-software/mago) - Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
@@ -3687,7 +3692,7 @@
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
-- [puckeditor/puck](https://github.com/puckeditor/puck) - Create your own AI page builder
+- [puckeditor/puck](https://github.com/puckeditor/puck) - The visual editor for React.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
 - [harana/search](https://github.com/harana/search) - Search everything, instantly.
@@ -4115,6 +4120,7 @@
 
 ## symfony 
 
+- [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Sylius app skeleton
 - [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
