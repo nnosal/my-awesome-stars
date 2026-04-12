@@ -579,6 +579,7 @@
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [sachinchoolur/jquery-to-javascript-converter](https://github.com/sachinchoolur/jquery-to-javascript-converter) - Automatically finds jQuery methods from existing projects and generates vanilla js alternatives.
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
@@ -895,7 +896,6 @@
 - [friends-of-presta/fop_console](https://github.com/friends-of-presta/fop_console) - Prestashop Module providing a set of shell/terminal commands for developers (PrestaShop 1.7.5+)
 - [prestascan/prestascansecurity](https://github.com/prestascan/prestascansecurity) - PrestaScan Security is a PrestaShop module allowing you to scan your PrestaShop website to identify malware and known vulnerabilities in PrestaShop core and modules.
 - [LasseRafn/ui-avatars](https://github.com/LasseRafn/ui-avatars) - 
-- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [stayallive/wp-sentry](https://github.com/stayallive/wp-sentry) - A (unofficial) WordPress plugin reporting PHP and JavaScript errors to Sentry.
 - [craftcms/cms](https://github.com/craftcms/cms) - Build bespoke content experiences with Craft.
 - [Sylius/Sylius](https://github.com/Sylius/Sylius) - Headless open-source eCommerce platform on top of PHP/Symfony/API Platform
@@ -1346,7 +1346,7 @@
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
 - [davidmonterocrespo24/velxio](https://github.com/davidmonterocrespo24/velxio) - Emulate Arduino, ESP32 & Raspberry Pi. in your browser. Write code, compile, and run on 19 real boards — Arduino Uno, ESP32, ESP32-C3, Raspberry Pi Pico, Raspberry Pi 3, and more. No hardware, no clou
 - [firsttris/vscode-jest-runner](https://github.com/firsttris/vscode-jest-runner) - Run and debug Jest, Vitest, Rstest, Node.js, Bun, Deno and Playwright tests with ease, right from your editor.
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI,
+- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Turn any codebase, knowledge base (Karpathy LLM wiki), or docs into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gem
 - [dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 - [Slashgear/roadmap-maker](https://github.com/Slashgear/roadmap-maker) - Self-hosted roadmap builder with Gantt chart visualization. Built with Hono, Preact, SQLite and Bun.
 - [Slashgear/poker-planning](https://github.com/Slashgear/poker-planning) - Real-time poker planning app for agile team estimation   using Fibonacci sequence
