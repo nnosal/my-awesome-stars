@@ -175,7 +175,7 @@
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter
 - [lucasnlm/antimine-flutter](https://github.com/lucasnlm/antimine-flutter) - Antimine is an open source minesweeper-like puzzle game.
 - [flutter/pinball](https://github.com/flutter/pinball) - Google I/O 2022 Pinball game built with Flutter and Firebase
-- [lichess-org/mobile](https://github.com/lichess-org/mobile) - New Lichess mobile app in Flutter
+- [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app written in Flutter
 - [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Every day is worth remembering...
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 - [theachoem/storypad](https://github.com/theachoem/storypad) - An open source diary & journal app with over 100k downloads 🪴
@@ -1530,7 +1530,7 @@
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
