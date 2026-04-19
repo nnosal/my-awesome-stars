@@ -495,6 +495,7 @@
 
 ## JavaScript 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [dmnsgn/canvas-record](https://github.com/dmnsgn/canvas-record) - Record a video in the browser or directly on the File System from a canvas region (2D/WebGL/WebGPU) as MP4, WebM, MKV, MOV, GIF, PNG/JPG Sequence using WebCodecs and Wasm when available.
 - [ysdede/parakeet.js](https://github.com/ysdede/parakeet.js) - NVIDIA Parakeet speech recognition for the browser (WebGPU/WASM) powered by ONNX Runtime Web
@@ -823,7 +824,6 @@
 - [Ramhm/sentry-setup](https://github.com/Ramhm/sentry-setup) - How to setup Sentry.io (open source) server in Docker Compose
 - [TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration](https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-Firefox-Configuration) - The ultimate Firefox configuration that is acceptable Privacy-Wise while being as much feature-packed as possible.
 - [lukecav/awesome-wp-speed-up](https://github.com/lukecav/awesome-wp-speed-up) - Plugins and resources to speed up and optimize your WordPress site.
-- [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) - Daily Laravel and PHP tips.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [alagrede/znote-app](https://github.com/alagrede/znote-app) - znote.io public repository
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
@@ -1276,6 +1276,7 @@
 - [wazo-platform/wazo-docker](https://github.com/wazo-platform/wazo-docker) - 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+- [OussamaMater/Laravel-Tips](https://github.com/OussamaMater/Laravel-Tips) - Daily Laravel and PHP tips.
 - [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer) - OSX Optimizer: Optimize MacOS - Shell scripts to speed up your mac boot time, accelerate loading, and prevent unnecessary throttling.
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
@@ -1432,7 +1433,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and reverse proxy for remote access
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [akirk/playground-step-library](https://github.com/akirk/playground-step-library) - Custom Steps for WordPress Playground
