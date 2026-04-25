@@ -164,7 +164,7 @@
 
 ## Dart 
 
-- [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player based on DAB api
+- [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player built with Flutter
 - [theSoberSobber/Docker-Manager](https://github.com/theSoberSobber/Docker-Manager) - Docker Manager is an Android App that allows you to manage your docker installation on remote from your mobile phone!
 - [widgetbook/widgetbook](https://github.com/widgetbook/widgetbook) - Widgetbook is the custom widget library and collaboration platform for Flutter frontend teams.
 - [layground/pockaw](https://github.com/layground/pockaw) - Pockaw is a free and simple budgeting app designed to help you manage your finances with ease. Track expenses, monitor income, set budget goals, and visualize spending trends—all in one place.
