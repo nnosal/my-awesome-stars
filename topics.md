@@ -438,7 +438,7 @@
 - [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
 - [Domi04151309/HomeApp](https://github.com/Domi04151309/HomeApp) - HomeApp is a small and easy to use smart home app with a simple framework.
 - [layground/pockaw](https://github.com/layground/pockaw) - Pockaw is a free and simple budgeting app designed to help you manage your finances with ease. Track expenses, monitor income, set budget goals, and visualize spending trends—all in one place.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [bk138/multivnc](https://github.com/bk138/multivnc) - MultiVNC is a cross-platform SSH-enabled VNC viewer. The desktop client runs on Unix, Mac OS X and Windows. There also is an Android client.
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [emanuele-f/PCAPdroid](https://github.com/emanuele-f/PCAPdroid) - No-root network monitor, firewall and PCAP dumper for Android
@@ -547,7 +547,7 @@
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) - Android client application.
 - [HabitRPG/habitica-android](https://github.com/HabitRPG/habitica-android) - Native Android app for Habitica
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [Delta-Icons/android](https://github.com/Delta-Icons/android) - 🤖 Icon Pack for Android
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -831,7 +831,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, OpenCode, Gemini CLI and Copilot CLI.
 
 ## cli 
 
@@ -1058,7 +1058,7 @@
 ## dart 
 
 - [widgetbook/widgetbook](https://github.com/widgetbook/widgetbook) - Widgetbook is the custom widget library and collaboration platform for Flutter frontend teams.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [lichess-org/mobile](https://github.com/lichess-org/mobile) - Lichess mobile app
 - [simonoppowa/OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker) - 🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.
@@ -1468,7 +1468,7 @@
 - [theSoberSobber/Docker-Manager](https://github.com/theSoberSobber/Docker-Manager) - Docker Manager is an Android App that allows you to manage your docker installation on remote from your mobile phone!
 - [widgetbook/widgetbook](https://github.com/widgetbook/widgetbook) - Widgetbook is the custom widget library and collaboration platform for Flutter frontend teams.
 - [layground/pockaw](https://github.com/layground/pockaw) - Pockaw is a free and simple budgeting app designed to help you manage your finances with ease. Track expenses, monitor income, set budget goals, and visualize spending trends—all in one place.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [Yubico/yubioath-flutter](https://github.com/Yubico/yubioath-flutter) - Yubico Authenticator for Desktop (Windows, macOS and Linux) and Android
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
@@ -1956,7 +1956,7 @@
 ## image-processing 
 
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 
@@ -1980,7 +1980,7 @@
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [adil192/ricochlime](https://github.com/adil192/ricochlime) - Satisfying monster shooter
@@ -2084,7 +2084,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [ifmeorg/ifme](https://github.com/ifmeorg/ifme) - Free, open source mental health communication web app to share experiences with loved ones
 - [heiseonline/shariff](https://github.com/heiseonline/shariff) - 👮 Shariff enables website users to share their favorite content without compromising their privacy.
 - [therealFoxster/altsource-viewer](https://github.com/therealFoxster/altsource-viewer) - View your favorite AltStore source
@@ -2188,7 +2188,7 @@
 - [Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - A Modern Code Editor for Android
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
 - [Domi04151309/HomeApp](https://github.com/Domi04151309/HomeApp) - HomeApp is a small and easy to use smart home app with a simple framework.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [Razeeman/Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple app that tracks time.
 - [StarkDroid/WallStreet](https://github.com/StarkDroid/WallStreet) - A Simple yet Stylish 💅🏼 wallpaper app made using Jetpack compose / Kotlin Multiplatform along with Ktor & Coil for network operations. Supports (MacOS, Windows, Linux & Android)
 - [you-apps/WallYou](https://github.com/you-apps/WallYou) - Privacy focused wallpaper app built with MD3
@@ -2873,7 +2873,7 @@
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [TrianguloY/URLCheck](https://github.com/TrianguloY/URLCheck) - Android app by TrianguloY: URLCheck
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [garylab/MakeMoneyWithAI](https://github.com/garylab/MakeMoneyWithAI) - A list of open-source AI projects you can use to generate income easily.
@@ -2932,7 +2932,7 @@
 
 ## opencv 
 
-- [ossdocumentscanner/OSS-DocumentScanner](https://github.com/ossdocumentscanner/OSS-DocumentScanner) - Document scanning app
+- [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 
 ## operating-system 
 
@@ -3252,7 +3252,7 @@
 - [panchi64/auto-ytdlp](https://github.com/panchi64/auto-ytdlp) - Use yt-dlp to download videos from a list of URLs. It features a user-friendly TUI, multithreading capabilities, and various quality-of-life improvements for an efficient and pleasant downloading expe
 - [zach-adams/simple-new-tab-url](https://github.com/zach-adams/simple-new-tab-url) - 
 - [ymirapp/cli](https://github.com/ymirapp/cli) - Ymir command-line tool
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy gpt-oss, Qwen3, DeepSeek-R1, or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
 - [Flowgem/Proxmox-Console-Extension](https://github.com/Flowgem/Proxmox-Console-Extension) - 
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [igumnoff/shiva](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type
@@ -3772,7 +3772,7 @@
 
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [erosson/freecbt](https://github.com/erosson/freecbt) - ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android
 - [heylinda/heylinda-app](https://github.com/heylinda/heylinda-app) - The open source and free meditation app alternative for everyone. Built with React Native and Expo.
@@ -3909,7 +3909,7 @@
 
 ## security 
 
-- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute.
+- [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) - A coding agent hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, OpenCode, Gemini CLI and Copilot CLI.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -3983,7 +3983,7 @@
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [scribble-rs/scribble.rs](https://github.com/scribble-rs/scribble.rs) - The free and privacy respecting pictionary game - Play at https://scribblers.bios-marcel.link
@@ -4174,7 +4174,7 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
-- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting 💥, ANR Tracking ⏳, Bug Reporting 🐞, Performance Tracing ⚡️, Logging 🪵 and more! 100% open source alternative to Firebase Crashlytics.
+- [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
 - [nicoverbruggen/phpmon](https://github.com/nicoverbruggen/phpmon) - Lightweight, native Mac menu bar app that helps you manage multiple PHP installations, locate config files and more. Also interacts with Laravel Valet.
 - [MarkEdit-app/MarkEdit](https://github.com/MarkEdit-app/MarkEdit) - Just like TextEdit on Mac but dedicated to Markdown.
 - [sindresorhus/Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts
