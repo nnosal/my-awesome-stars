@@ -1286,7 +1286,7 @@
 - [willfarrell/docker-autoheal](https://github.com/willfarrell/docker-autoheal) - Monitor and restart unhealthy docker containers.
 - [tmknight/docker-autoheal](https://github.com/tmknight/docker-autoheal) - Monitor and remediate unhealthy Docker containers
 - [lenra-io/dofigen](https://github.com/lenra-io/dofigen) - Dofigen is a Dockerfile generator using a simplified description in YAML or JSON format
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
@@ -1813,7 +1813,7 @@
 - [phpro/grumphp](https://github.com/phpro/grumphp) - A PHP code-quality tool
 - [captainhook-git/captainhook](https://github.com/captainhook-git/captainhook) - CaptainHook is a very flexible git hook manager for software developers that makes sharing git hooks with your team a breeze.
 - [lenra-io/dofigen](https://github.com/lenra-io/dofigen) - Dofigen is a Dockerfile generator using a simplified description in YAML or JSON format
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 - [fluentci-io/fluentci-engine](https://github.com/fluentci-io/fluentci-engine) - Programmable CI/CD engine without Containers, written in Rust, built on top of Wasm and Nix ❄️
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
@@ -2242,7 +2242,7 @@
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode and Kubernetes compatible.
+- [sablierapp/sablier](https://github.com/sablierapp/sablier) - Start your containers on demand, shut them down automatically when there's no activity. Docker, Docker Swarm Mode, Podman, Kubernetes and Proxmox LXC compatible.
 - [SlimPlanet/SlimFaas](https://github.com/SlimPlanet/SlimFaas) - SlimFaas : The slimmest and simplest Function As A Service
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications
