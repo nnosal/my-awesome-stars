@@ -436,7 +436,6 @@
 - [TrianguloY/URLCheck](https://github.com/TrianguloY/URLCheck) - Android app by TrianguloY: URLCheck
 - [maxneaga/open_dash_cam_android](https://github.com/maxneaga/open_dash_cam_android) - Open-source dash cam application for Android
 - [fr3ts0n/AndrOBD](https://github.com/fr3ts0n/AndrOBD) - Android OBD diagnostics with any ELM327 adapter
-- [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012)
 - [gauravjot/android-AmoledBackgrounds-for-reddit](https://github.com/gauravjot/android-AmoledBackgrounds-for-reddit) - AmoledBackgrounds provide an easy and quick way for users to get wallpapers from r/AmoledBackgrounds subreddit on the popular Reddit platform.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
@@ -642,6 +641,7 @@
 - [Razeeman/Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple app that tracks time.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
 - [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+- [sky-map-team/stardroid](https://github.com/sky-map-team/stardroid) - Sky Map (formerly Google Sky Map, open sourced in 2012)
 - [StarkDroid/WallStreet](https://github.com/StarkDroid/WallStreet) - A Simple yet Stylish 💅🏼 wallpaper app made using Jetpack compose / Kotlin Multiplatform along with Ktor & Coil for network operations. Supports (MacOS, Windows, Linux & Android)
 - [you-apps/WallYou](https://github.com/you-apps/WallYou) - Privacy focused wallpaper app built with MD3
 - [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) - LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
@@ -1239,6 +1239,7 @@
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## SCSS 
 
@@ -1411,7 +1412,6 @@
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [mnfst/manifest](https://github.com/mnfst/manifest) - Smart Model Routing for Agents. Cut Costs up to 70% 🦚
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
@@ -1588,7 +1588,6 @@
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
