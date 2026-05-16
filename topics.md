@@ -324,7 +324,7 @@
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
@@ -383,7 +383,7 @@
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Autonomous Company Operating System
@@ -1027,7 +1027,7 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [StJudeWasHere/seonaut](https://github.com/StJudeWasHere/seonaut) - Open source SEO audit tool.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -2392,7 +2392,7 @@
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
@@ -2567,7 +2567,7 @@
 ## markdown 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The API to search, scrape, and interact with the web for AI
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [caian-org/list-github-stars](https://github.com/caian-org/list-github-stars) - list all your starred repositories into a single, markdown-formatted page
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
