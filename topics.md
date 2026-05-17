@@ -3002,7 +3002,7 @@
 - [deepakbackuply/softaculous_api](https://github.com/deepakbackuply/softaculous_api) - Softaculous API
 - [gaambo/deployer-wordpress](https://github.com/gaambo/deployer-wordpress) - Deployer tasks for deploying WordPress Sites
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
 - [aniketkarne/ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically
 - [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [adfaure/flake-containers](https://github.com/adfaure/flake-containers) - A proof of concept project for defining NixOS containers (systemd-nspawn) in a flake.nix file.
