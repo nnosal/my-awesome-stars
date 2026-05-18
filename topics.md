@@ -739,7 +739,6 @@
 
 ## bootstrap 
 
-- [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 
@@ -1478,6 +1477,7 @@
 
 ## flutter 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [theSoberSobber/Docker-Manager](https://github.com/theSoberSobber/Docker-Manager) - Docker Manager is an Android App that allows you to manage your docker installation on remote from your mobile phone!
 - [widgetbook/widgetbook](https://github.com/widgetbook/widgetbook) - Widgetbook is the custom widget library and collaboration platform for Flutter frontend teams.
 - [layground/pockaw](https://github.com/layground/pockaw) - Pockaw is a free and simple budgeting app designed to help you manage your finances with ease. Track expenses, monitor income, set budget goals, and visualize spending trends—all in one place.
@@ -3759,6 +3759,7 @@
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [lissy93/framework-benchmarks](https://github.com/lissy93/framework-benchmarks) - 🌈 The same app built in 10 different frontend frameworks. For automated performance benchmarking
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
+- [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -4253,6 +4254,7 @@
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [Slashgear/roadmap-maker](https://github.com/Slashgear/roadmap-maker) - Self-hosted roadmap builder with Gantt chart visualization. Built with Hono, Preact, SQLite and Bun.
 - [hsr88/log-voyager](https://github.com/hsr88/log-voyager) - Analyze huge log files (10GB+) instantly in your browser. Zero upload, 100% local processing. Features JSON prettifier, regex filtering, and bookmarks.
+- [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor - Markdown with style.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Swetrix is a cookie-less, open source, privacy-first web analytics, website speed monitoring and error tracking service that you can host yourself or use in the cloud. Get started for free!
