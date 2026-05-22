@@ -381,7 +381,7 @@
 ## ai-agents 
 
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Search, scrape, and clean the web for AI agents.
 - [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
@@ -1300,7 +1300,7 @@
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [lichess-org/lila-docker](https://github.com/lichess-org/lila-docker) - Lichess local development using Docker Compose.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 - [sudo-kraken/terraform-gcp-ubuntu-container-ready-e2-micro-vm](https://github.com/sudo-kraken/terraform-gcp-ubuntu-container-ready-e2-micro-vm) - Deploys An Ubuntu Virtual Machine with Docker and Docker Compose Installed in GCP using Terraform
 - [sudo-kraken/oci-free-terraform-stack](https://github.com/sudo-kraken/oci-free-terraform-stack) - OCI Terraform Module: Automated deployment of OCI resources, including multiple compute instances, additional storage, and network setup, managed via GitHub Actions with Docker and Docker Compose inte
@@ -1561,7 +1561,7 @@
 
 ## generative-ai 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [LLPhant/LLPhant](https://github.com/LLPhant/LLPhant) - LLPhant - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
@@ -1697,7 +1697,7 @@
 - [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB, Elastic Search, and Clickhouse with Chat interface
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [cortezaproject/corteza](https://github.com/cortezaproject/corteza) - Low-code platform
 - [encoredev/encore](https://github.com/encoredev/encore) - Open source framework for building robust type-safe distributed systems with declarative infrastructure
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
@@ -2320,6 +2320,7 @@
 
 ## linux 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [verzly/mise-php](https://github.com/verzly/mise-php) - PHP version manager plugin for mise with built-in Composer, PECL and PIE support for Windows, Linux & macOS
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
@@ -2474,6 +2475,7 @@
 
 ## macos 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [verzly/mise-php](https://github.com/verzly/mise-php) - PHP version manager plugin for mise with built-in Composer, PECL and PIE support for Windows, Linux & macOS
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI/Desktop/VSC,  Claude Code CLI/Desktop,  OpenCode CLI, Gemini CLI, Pi CLI , GitHub Copilot CLI + OpenClaw & Hermes agents. Se
@@ -2740,7 +2742,7 @@
 
 ## nextjs 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms) - 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.
 - [hunvreus/devpush](https://github.com/hunvreus/devpush) - Like Vercel, but open source and for all languages.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
@@ -2776,7 +2778,7 @@
 
 ## no-code 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -2975,6 +2977,7 @@
 
 ## others 
 
+- [b-fontaine/devoxx-2026](https://github.com/b-fontaine/devoxx-2026) - Support de talk pour devoxx 2026
 - [webrecorder/replayweb.page](https://github.com/webrecorder/replayweb.page) - Serverless replay of web archives directly in the browser
 - [usetrmnl/trmnl-kindle](https://github.com/usetrmnl/trmnl-kindle) - Turn your Kindle into a personal dashboard
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.
@@ -3869,6 +3872,7 @@
 
 ## rust 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
 - [tranxuanthang/lrclib](https://github.com/tranxuanthang/lrclib) - LRCLIB server written in Rust with Axum and SQLite3 database
 - [nikhilunni/demucs-rs](https://github.com/nikhilunni/demucs-rs) - Rust powered waveform source separation
@@ -4610,6 +4614,7 @@
 
 ## windows 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [verzly/mise-php](https://github.com/verzly/mise-php) - PHP version manager plugin for mise with built-in Composer, PECL and PIE support for Windows, Linux & macOS
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
