@@ -147,7 +147,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [mises-id/mises-browser-core](https://github.com/mises-id/mises-browser-core) - 
 - [kiwibrowser/src.next](https://github.com/kiwibrowser/src.next) - Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [ossappscollective/OSS-DocumentScanner](https://github.com/ossappscollective/OSS-DocumentScanner) - Document scanning app
 - [GuitarML/NeuralPi](https://github.com/GuitarML/NeuralPi) - Raspberry Pi guitar pedal using neural networks to emulate real amps and effects.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
@@ -800,6 +800,7 @@
 
 ## Others 
 
+- [davidvonthenen/2026-devoxx-france-keystroke](https://github.com/davidvonthenen/2026-devoxx-france-keystroke) - All resources (slides, code, etc) for Devoxx France 2026: The Sound of Your Secrets: Teaching Your Model to Spy, So You Can Learn to Defend
 - [cbouvat/saracroche-android](https://github.com/cbouvat/saracroche-android) - Saracroche is an Android app that blocks unwanted calls.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - A curated list of awesome skills, tools, integrations, and resources for Hermes Agent by Nous Research
 - [axtonliu/axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) - Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
