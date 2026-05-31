@@ -1513,7 +1513,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [IsaacGemal/wikitok](https://github.com/IsaacGemal/wikitok) - 
 - [measure-sh/measure](https://github.com/measure-sh/measure) - Complete Mobile App Monitoring platform with Crash Reporting, ANR Tracking, Bug Reporting, Performance Tracing, Logging and more! 100% open source alternative to Firebase Crashlytics.
-- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - Instantly generate AI-powered subtitles on your device. Works standalone or connects to DaVinci Resolve.
+- [tmoroney/auto-subs](https://github.com/tmoroney/auto-subs) - On-device subtitle generation that connects directly to DaVinci Resolve, Premiere, and After Effects.
 - [morningstar-manu/receipt-scanner-app](https://github.com/morningstar-manu/receipt-scanner-app) - Une application basée sur une architecture microservices permettant de scanner des tickets de caisse, extraire des données via OCR et IA, gérer la fidélité client et proposer des recommandations perso
 - [addyosmani/say](https://github.com/addyosmani/say) - Say - A Whisper AI Notes app
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
