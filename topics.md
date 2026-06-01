@@ -3045,7 +3045,7 @@
 - [b-fontaine/devoxx-2026](https://github.com/b-fontaine/devoxx-2026) - Support de talk pour devoxx 2026
 - [webrecorder/replayweb.page](https://github.com/webrecorder/replayweb.page) - Serverless replay of web archives directly in the browser
 - [usetrmnl/trmnl-kindle](https://github.com/usetrmnl/trmnl-kindle) - Turn your Kindle into a personal dashboard
-- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.
+- [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [Adelina805/vynl](https://github.com/Adelina805/vynl) - Music to visual art generator — paste a Spotify URL, get gallery-worthy abstract art
 - [Piwigo/PiwigoPublish-lrc-plugin](https://github.com/Piwigo/PiwigoPublish-lrc-plugin) - A Lightroom Classic plugin which publishes images to a Piwigo host via the Piwigo REST API.
 - [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
