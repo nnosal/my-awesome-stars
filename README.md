@@ -156,6 +156,7 @@
 
 ## CSS 
 
+- [frycodelab/nicegui-component-based](https://github.com/frycodelab/nicegui-component-based) - Modularized template for NiceGUI
 - [DataTables/DataTables](https://github.com/DataTables/DataTables) - DataTables - legacy repo
 - [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝 基于 Vue2、Vditor，所构建的在线 Markdown 编辑器，支持绘制流程图、甘特图、时序图、任务列表、echarts 图表、五线谱，以及 PPT 预览、视频音频解析、HTML 自动转换为 Markdown 等功能。https://www.niceshare.site
 - [kodekloudhub/kodekloud-engineer](https://github.com/kodekloudhub/kodekloud-engineer) - 
@@ -505,6 +506,7 @@
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [NeoApplications/Neo-Launcher](https://github.com/NeoApplications/Neo-Launcher) - Neo-Launcher
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -707,7 +709,7 @@
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android's most thorough cleaning tool.
 - [DP-Hridayan/aShellYou](https://github.com/DP-Hridayan/aShellYou) - A material you designed app for your ADB needs
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
-- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android 🌦🌞☔
+- [PranshulGG/WeatherMaster](https://github.com/PranshulGG/WeatherMaster) - A Weather app for android with multiple sources 🌦🌞☔
 - [jellyfin/jellyfin-android](https://github.com/jellyfin/jellyfin-android) - Android Client for Jellyfin
 - [yairm210/Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V
 - [videolan/vlc-android](https://github.com/videolan/vlc-android) - VLC for Android, Android TV and ChromeOS
@@ -974,6 +976,13 @@
 
 ## Python 
 
+- [andfanilo/python-webapp-comparison](https://github.com/andfanilo/python-webapp-comparison) - Trying out all Python Data Web Frameworks
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
+- [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [YV17labs/GhostDesk](https://github.com/YV17labs/GhostDesk) - Give any AI agent a full desktop — it sees the screen, clicks, types, and runs apps like a human. Automate anything with a UI: browsers, legacy software, internal tools. No API needed. One Docker comm
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -1575,7 +1584,6 @@
 - [Davronov-Alimardon/canva-clone](https://github.com/Davronov-Alimardon/canva-clone) - A feature-rich graphic design SaaS platform with an intuitive editor for template customization, text/shape manipulation, and advanced drawing tools. Includes secure Stripe subscriptions and AI-powere
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
