@@ -173,6 +173,7 @@
 
 ## Dart 
 
+- [Bikram-Kumar/Harmony-Music](https://github.com/Bikram-Kumar/Harmony-Music) - A cross platform app for streaming music
 - [b-fontaine/devoxx-2026](https://github.com/b-fontaine/devoxx-2026) - Support de talk pour devoxx 2026
 - [TheVolecitor/BeatBoss](https://github.com/TheVolecitor/BeatBoss) - Music Player built with Flutter
 - [theSoberSobber/Docker-Manager](https://github.com/theSoberSobber/Docker-Manager) - Docker Manager is an Android App that allows you to manage your docker installation on remote from your mobile phone!
