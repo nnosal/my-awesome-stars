@@ -411,6 +411,7 @@
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
 - [six-two/qr.html](https://github.com/six-two/qr.html) - A standalone offline HTML5 QR code generator
+- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 - [AsahiLinux/docs](https://github.com/AsahiLinux/docs) - Asahi Linux documentation
 - [shahrviral/Mac-Setup](https://github.com/shahrviral/Mac-Setup) - Buy me a coffee / book / beer
 - [InternalDeveloperPlatform/public-site](https://github.com/InternalDeveloperPlatform/public-site) - 
@@ -1031,7 +1032,6 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [ph00lt0/blocklist](https://github.com/ph00lt0/blocklist) - Blocklists for AdGuard Home, AdGuard, Little Snitch, Open Snitch, uBlock Origin, Brave Adblock, pfBlockerNG, and PiHole. Combine with Hagezi and OISD
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -1319,6 +1319,7 @@
 
 ## Shell 
 
+- [Light-Heart-Labs/ODS](https://github.com/Light-Heart-Labs/ODS) - Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise.
 - [usetrmnl/trmnl-kindle](https://github.com/usetrmnl/trmnl-kindle) - Turn your Kindle into a personal dashboard
