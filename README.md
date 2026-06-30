@@ -231,6 +231,7 @@
 
 ## Go 
 
+- [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents.
 - [nilbuild/slim](https://github.com/nilbuild/slim) - Give your localhost a local or public URL
 - [ProxySQL/dbdeployer](https://github.com/ProxySQL/dbdeployer) - DBdeployer is a tool that deploys MySQL database servers easily.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
@@ -563,7 +564,6 @@
 - [json-editor/json-editor](https://github.com/json-editor/json-editor) - JSON Schema Based Editor
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [seanmorris/pixel-physics](https://github.com/seanmorris/pixel-physics) - 
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [processing/p5.js-web-editor](https://github.com/processing/p5.js-web-editor) - The p5.js Editor is a website for creating p5.js sketches, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! You can create, share, 
 - [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
@@ -877,6 +877,7 @@
 
 ## PHP 
 
+- [WordPress/php-toolkit](https://github.com/WordPress/php-toolkit) - Standalone, dependency-free PHP libraries for WordPress and PHP projects — XML, ZIP, Git, HTTP, Markdown, Filesystem, and more.
 - [szepeviktor/composer-envato](https://github.com/szepeviktor/composer-envato) - Composer plugin for Envato 💚 Install WordPress themes and plugins from ThemeForest‎‎ and CodeCanyon
 - [mainwp/mainwp](https://github.com/mainwp/mainwp) - The MainWP Dashboard is an open source self-hosted WordPress management plugin that allows you to maintain virtually all aspects of multiple WordPress sites.
 - [Sylius/Sylius-Standard](https://github.com/Sylius/Sylius-Standard) - Sylius app skeleton
@@ -983,6 +984,8 @@
 
 ## Python 
 
+- [xorq-labs/xorq](https://github.com/xorq-labs/xorq) - Executable memory system for tabular data work
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [Auriti-Labs/geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) toolkit — audit, optimize & track whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. AI SEO /
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [AGProjects/python3-sipsimple](https://github.com/AGProjects/python3-sipsimple) - SIP SIMPLE SDK written in Python
@@ -1439,6 +1442,7 @@
 
 ## TypeScript 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
 - [solidtime-io/solidtime-desktop](https://github.com/solidtime-io/solidtime-desktop) - solidtime timetracker desktop app for macOS, Windows and Linux
@@ -1544,6 +1548,7 @@
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Qualtrics Alternative
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
