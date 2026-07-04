@@ -66,7 +66,7 @@
 ## Astro 
 
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
-- [ImranR98/apps.obtainium.page](https://github.com/ImranR98/apps.obtainium.page) - Collection of suggested apps for Obtainium.
+- [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
 
 ## Awk 
@@ -523,6 +523,7 @@
 
 ## JavaScript 
 
+- [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 - [ateeducacion/nextcloud-playground](https://github.com/ateeducacion/nextcloud-playground) - Run Nextcloud in the browser via WebAssembly PHP
@@ -1443,6 +1444,7 @@
 
 ## TypeScript 
 
+- [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
 - [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
@@ -1460,7 +1462,7 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
 - [Adelina805/vynl](https://github.com/Adelina805/vynl) - Music to visual art generator — paste a Spotify URL, get gallery-worthy abstract art
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
