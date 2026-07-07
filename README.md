@@ -523,6 +523,7 @@
 
 ## JavaScript 
 
+- [noemica-io/open-claude-in-chrome](https://github.com/noemica-io/open-claude-in-chrome) - Claude in Chrome, reverse-engineered and open-source. No domain blocklist. Any Chromium browser. Same 18 MCP tools, same performance.
 - [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
@@ -532,7 +533,7 @@
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
 - [libremesh/libremesh.github.io](https://github.com/libremesh/libremesh.github.io) - LibreMesh web site using VitePress
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [dmnsgn/canvas-record](https://github.com/dmnsgn/canvas-record) - Record a video in the browser or directly on the File System from a canvas region (2D/WebGL/WebGPU) as MP4, WebM, MKV, MOV, GIF, PNG/JPG Sequence using WebCodecs and Wasm when available.
 - [ysdede/parakeet.js](https://github.com/ysdede/parakeet.js) - NVIDIA Parakeet speech recognition for the browser (WebGPU/WASM) powered by ONNX Runtime Web
@@ -905,7 +906,7 @@
 - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) - Free and Open Source ERP platform
-- [unopim/unopim](https://github.com/unopim/unopim) - Unopim is a free and open-source Laravel-based Product Information Management (PIM) system that helps businesses manage and enrich product data from a single platform. Built to scale beyond 10M+ produ
+- [unopim/unopim](https://github.com/unopim/unopim) - UnoPIM is a free and open-source Product Information Management (PIM) solution built on Laravel to manage, enrich, and scale product data beyond 10 million products.
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf) - Open Source Invoicing Solution for Individuals & Businesses
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
@@ -1464,7 +1465,7 @@
 - [webrecorder/browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler) - Run a high-fidelity browser-based web archiving crawler in a single Docker container
 - [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) - OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, enc
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The Vibe Design Workspace & the open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, imag
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [Adelina805/vynl](https://github.com/Adelina805/vynl) - Music to visual art generator — paste a Spotify URL, get gallery-worthy abstract art
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
 - [emdash-cms/emdash](https://github.com/emdash-cms/emdash) - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
