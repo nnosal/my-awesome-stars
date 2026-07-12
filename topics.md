@@ -2655,6 +2655,7 @@
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [sveinbjornt/Platypus](https://github.com/sveinbjornt/Platypus) - Create native macOS applications from command line scripts.
 - [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
@@ -3180,6 +3181,7 @@
 
 ## others 
 
+- [sosoj92/factcheckfrench](https://github.com/sosoj92/factcheckfrench) - Comme le titre
 - [hufon/cnie-python-tools](https://github.com/hufon/cnie-python-tools) - Experimental Python toolkit for reading the French National Identity Card (*Carte Nationale d'Identité*, CNI) via a PC/SC **contact** smart card reader, using PACE-CAN authentication and Secure Messag
 - [21st-dev/claude-code-plugin](https://github.com/21st-dev/claude-code-plugin) - 21st.dev Claude Code plugin: bundles the 21st-cli skill + the remote 21st MCP server in one install.
 - [bellingcat/toolkit](https://github.com/bellingcat/toolkit) - 
