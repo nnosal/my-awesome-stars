@@ -3181,6 +3181,9 @@
 
 ## others 
 
+- [THM-Health/PILOS](https://github.com/THM-Health/PILOS) - PILOS is an easy-to-use open source front-end for BigBlueButton servers with a built-in load balancer. Docker-Images: https://hub.docker.com/r/pilos/pilos
+- [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
+- [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist enga
 - [sosoj92/factcheckfrench](https://github.com/sosoj92/factcheckfrench) - Comme le titre
 - [hufon/cnie-python-tools](https://github.com/hufon/cnie-python-tools) - Experimental Python toolkit for reading the French National Identity Card (*Carte Nationale d'Identité*, CNI) via a PC/SC **contact** smart card reader, using PACE-CAN authentication and Secure Messag
 - [21st-dev/claude-code-plugin](https://github.com/21st-dev/claude-code-plugin) - 21st.dev Claude Code plugin: bundles the 21st-cli skill + the remote 21st MCP server in one install.
@@ -4128,7 +4131,6 @@
 
 ## robotics 
 
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 
 ## ruby 
