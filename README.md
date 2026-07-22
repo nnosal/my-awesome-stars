@@ -413,6 +413,7 @@
 
 ## HTML 
 
+- [noemica-io/open-claude-in-chrome](https://github.com/noemica-io/open-claude-in-chrome) - Claude in Chrome, reverse-engineered and open-source. No domain blocklist. Any Chromium browser. Same 18 MCP tools, same performance.
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
 - [six-two/qr.html](https://github.com/six-two/qr.html) - A standalone offline HTML5 QR code generator
@@ -532,7 +533,6 @@
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [sophymarine/openregistry](https://github.com/sophymarine/openregistry) - Real-time, direct-from-official-registry company data via MCP. 30 national registries; unmodified raw fields and raw filing bytes. Tools: search, profile, officers, shareholders, charges, filings, fin
 - [bellingcat/toolkit](https://github.com/bellingcat/toolkit) - 
-- [noemica-io/open-claude-in-chrome](https://github.com/noemica-io/open-claude-in-chrome) - Claude in Chrome, reverse-engineered and open-source. No domain blocklist. Any Chromium browser. Same 18 MCP tools, same performance.
 - [WordPress/agent-skills](https://github.com/WordPress/agent-skills) - Expert-level WordPress knowledge for AI coding assistants - blocks, themes, plugins, and best practices
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
@@ -542,7 +542,7 @@
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
 - [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
 - [libremesh/libremesh.github.io](https://github.com/libremesh/libremesh.github.io) - LibreMesh web site using VitePress
-- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
 - [dmnsgn/canvas-record](https://github.com/dmnsgn/canvas-record) - Record a video in the browser or directly on the File System from a canvas region (2D/WebGL/WebGPU) as MP4, WebM, MKV, MOV, GIF, PNG/JPG Sequence using WebCodecs and Wasm when available.
 - [ysdede/parakeet.js](https://github.com/ysdede/parakeet.js) - NVIDIA Parakeet speech recognition for the browser (WebGPU/WASM) powered by ONNX Runtime Web
@@ -1467,6 +1467,7 @@
 
 ## TypeScript 
 
+- [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 - [GarrickZ2/grove](https://github.com/GarrickZ2/grove) - A Kanban-style TUI for parallel AI coding. Manage Git worktrees as tasks, run multiple agents in isolated tmux sessions, get notified via hooks. Built for developers who vibe with Claude Code, Cursor,
 - [SocialGouv/anonymify](https://github.com/SocialGouv/anonymify) - Outils TypeScript pour l'anonymisation des données en langue Française, compatible Node.js et dans les browsers.
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
@@ -1693,6 +1694,7 @@
 
 ## Vue 
 
+- [maizzle/maizzle](https://github.com/maizzle/maizzle) - The modern email development framework.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [loilo/diffr](https://github.com/loilo/diffr) - 💎 Create and share diffs with Diffr, the privacy focused online text diffing tool.
 - [loilo/prettier-php-playground](https://github.com/loilo/prettier-php-playground) - 💄 A playground for the Prettier PHP plugin
