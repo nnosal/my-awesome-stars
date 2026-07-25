@@ -10,7 +10,6 @@
 - [Astro](#astro)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
-- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -81,10 +80,6 @@
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
-
-## Blade 
-
-- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 
 ## C 
 
@@ -674,7 +669,7 @@
 - [kamgurgul/cpu-info](https://github.com/kamgurgul/cpu-info) - CPU Info is a multiplatform application which provides information about device hardware and software
 - [Visual-Code-Space/Visual-Code-Space](https://github.com/Visual-Code-Space/Visual-Code-Space) - A Modern Code Editor for Android
 - [T8RIN/ImageToolbox](https://github.com/T8RIN/ImageToolbox) - 🖼️ Image Toolbox is a powerful app for advanced image manipulation. It offers dozens of features, from basic tools like crop and draw to filters, OCR, and a wide range of image processing options
-- [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, and get notified when the target device is detected.
+- [BLE-Research-Group/MetaRadar](https://github.com/BLE-Research-Group/MetaRadar) - A tool for BLE environment monitoring. Find and track Bluetooth devices around, create custom filters, get notified when the BLE fingerprint you are looking for is around.
 - [Domi04151309/HomeApp](https://github.com/Domi04151309/HomeApp) - HomeApp is a small and easy to use smart home app with a simple framework.
 - [Razeeman/Android-SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Simple app that tracks time.
 - [dkrivoruchko/ScreenStream](https://github.com/dkrivoruchko/ScreenStream) - ScreenStream Android App
@@ -920,6 +915,7 @@
 - [lesterchan/wp-sweep](https://github.com/lesterchan/wp-sweep) - WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. It also optimizes your database tables.
 - [makinacorpus/DbToolsBundle](https://github.com/makinacorpus/DbToolsBundle) - A PHP library to back up, restore and anonymize databases
 - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
+- [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Free and open source laravel eCommerce platform
 - [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) - Free and Open Source ERP platform
 - [unopim/unopim](https://github.com/unopim/unopim) - UnoPIM is a free and open-source Product Information Management (PIM) solution built on Laravel to manage, enrich, and scale product data beyond 10 million products.
@@ -1004,7 +1000,7 @@
 
 ## Python 
 
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported)
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) - Use claude code, codex or pi for free from the terminal, IDE, or your phone like OpenClaw (voice supported)
 - [sunnypilot/sunnypilot](https://github.com/sunnypilot/sunnypilot) - sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 350 supported car makes and models with modified behaviors of driving assist enga
 - [hufon/cnie-python-tools](https://github.com/hufon/cnie-python-tools) - Experimental Python toolkit for reading the French National Identity Card (*Carte Nationale d'Identité*, CNI) via a PC/SC **contact** smart card reader, using PACE-CAN authentication and Secure Messag
 - [Freedium-cfd/web](https://github.com/Freedium-cfd/web) - THIS REPOSITORY IS JUST A MIRROR! The main development repository is https://codeberg.org/Freedium-cfd/web
@@ -1211,6 +1207,7 @@
 
 ## Rust 
 
+- [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 - [wyattjoh/claude-code-notification](https://github.com/wyattjoh/claude-code-notification) - A lightweight macOS desktop notification hook for Claude Code that displays native notifications with customizable system sounds when events occur during AI coding sessions.
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
@@ -1591,7 +1588,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [vendurehq/vendure](https://github.com/vendurehq/vendure) - Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL
 - [Nutlope/napkins](https://github.com/Nutlope/napkins) - napkins.dev – from screenshot to app
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
