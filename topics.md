@@ -3564,7 +3564,7 @@
 - [panchi64/auto-ytdlp](https://github.com/panchi64/auto-ytdlp) - Use yt-dlp to download videos from a list of URLs. It features a user-friendly TUI, multithreading capabilities, and various quality-of-life improvements for an efficient and pleasant downloading expe
 - [zach-adams/simple-new-tab-url](https://github.com/zach-adams/simple-new-tab-url) - 
 - [ymirapp/cli](https://github.com/ymirapp/cli) - Ymir command-line tool
-- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Gemma 4, Qwen3.5, Qwen3.6, gpt-oss, DeepSeek-R1, or any open source LLM / VLM!
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Easily fine-tune, evaluate and deploy Qwen, Gemma, or any open weight LLM!
 - [Flowgem/Proxmox-Console-Extension](https://github.com/Flowgem/Proxmox-Console-Extension) - 
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure.
 - [igumnoff/shiva](https://github.com/igumnoff/shiva) - Shiva library: Implementation in Rust of a parser and generator for documents of any type
