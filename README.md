@@ -567,6 +567,7 @@
 - [scarf-sh/scarf-js](https://github.com/scarf-sh/scarf-js) - Installation analytics for your npm package
 - [dequelabs/axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing
 - [lonekorean/wordpress-export-to-markdown](https://github.com/lonekorean/wordpress-export-to-markdown) - Converts a WordPress export XML file into Markdown files.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
@@ -1216,7 +1217,7 @@
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [eisenzopf/rvoip](https://github.com/eisenzopf/rvoip) - 
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative
-- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 306 code languages. 1
+- [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
 - [jumpserver/client](https://github.com/jumpserver/client) - JumpServer Client, support macOS, Windows, Linux. Developed by Tauri
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
@@ -1414,7 +1415,6 @@
 - [Gokul-Raj-R-Coder/local-converter](https://github.com/Gokul-Raj-R-Coder/local-converter) - LocalConvert runs the entire conversion inside your browser using WebAssembly — the same technology that powers browser-based games and desktop-class apps in the browser.  What can it do? Supported ou
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so) - Shorten, customize, and track your links with Fli.so. The easiest way to manage your links, all in one platform.
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [KittyCAD/text-to-cad-ui](https://github.com/KittyCAD/text-to-cad-ui) - A lightweight UI for interacting with the Zoo Text-to-CAD API.
 - [qgustavor/mkv-extract](https://github.com/qgustavor/mkv-extract) - Extract MKV files online, directly from your browser
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
@@ -1518,7 +1518,7 @@
 - [Automattic/studio](https://github.com/Automattic/studio) - WordPress Studio, a free desktop app and CLI that helps developers streamline their local WordPress development workflow.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands before they execute. Supports Codex, Claude Code, OpenCode, Gemini CLI, Copilot CLI, Kimi Code and P
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands and secret file access before they execute. Supports Claude Code, Codex, Gemini CLI, Copilot CLI, An
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [abcoder0101/perfex-dev-tools](https://github.com/abcoder0101/perfex-dev-tools) - Perfex Dev Tools is a Visual Studio Code extension designed to streamline the development of modules and themes for Perfex CRM. With powerful scaffolding tools and a rich set of code snippets, it sign
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
