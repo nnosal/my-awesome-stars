@@ -71,7 +71,7 @@
 
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
 - [ImranR98/apps.obtainium.imranr.dev](https://github.com/ImranR98/apps.obtainium.imranr.dev) - Collection of suggested apps for Obtainium.
-- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
+- [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v7 and Tailwind CSS v4. Astro starter theme.
 
 ## Awk 
 
