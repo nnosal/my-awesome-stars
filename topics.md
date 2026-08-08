@@ -42,6 +42,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -291,6 +292,7 @@
 
 ## agent 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
@@ -340,6 +342,7 @@
 
 ## ai 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
@@ -420,6 +423,8 @@
 
 ## ai-agents 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [sophymarine/openregistry](https://github.com/sophymarine/openregistry) - Real-time, direct-from-official-registry company data via MCP. 30 national registries; unmodified raw fields and raw filing bytes. Tools: search, profile, officers, shareholders, charges, filings, fin
@@ -522,7 +527,7 @@
 - [igrek51/android-songbook](https://github.com/igrek51/android-songbook) - Songbook for Android - Song lyrics viewer with chords for guitar, piano and singing
 - [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
 - [siyuan-note/siyuan-android](https://github.com/siyuan-note/siyuan-android) - SiYuan Android APP
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
+- [AudileTeam/Audile](https://github.com/AudileTeam/Audile) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
 - [lorenzovngl/FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - 📱 Android app to track food expiration dates 🥦🥛🍎. Built with Jetpack Compose 🧩, MVVM 🛠️, Room 🗄️, and Material You 🎨.
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely.
@@ -902,6 +907,7 @@
 
 ## claude 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [mylee04/code-notify](https://github.com/mylee04/code-notify) - Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.
 - [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacO
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -924,6 +930,8 @@
 
 ## claude-code 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacO
@@ -948,8 +956,13 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A coding agent CLI hook that acts as a safety net, catching destructive git and filesystem commands and secret file access before they execute. Supports Claude Code, Codex, Gemini CLI, Copilot CLI, An
 
+## claude-skills 
+
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+
 ## cli 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [openclaw/mcporter](https://github.com/openclaw/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 - [Auriti-Labs/geo-optimizer-skill](https://github.com/Auriti-Labs/geo-optimizer-skill) - Open-source Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) toolkit — audit, optimize & track whether ChatGPT, Perplexity, Gemini & Google AI Overviews cite your site. AI SEO /
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
@@ -1312,6 +1325,7 @@
 
 ## developer-tools 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [mylee04/code-notify](https://github.com/mylee04/code-notify) - Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -1408,6 +1422,7 @@
 
 ## docker 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 - [ddev/ddev](https://github.com/ddev/ddev) - Docker-based local PHP+Node.js web development environments
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -1951,6 +1966,7 @@
 
 ## hacktoberfest 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -2253,6 +2269,7 @@
 
 ## javascript 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [birchb1024/terraform-provider-universe](https://github.com/birchb1024/terraform-provider-universe) - A generic Terraform Provider with which you can code dynamic providers in any scripting language.
@@ -2342,7 +2359,7 @@
 - [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) - LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
 - [GitaristErik/GuitarTuner](https://github.com/GitaristErik/GuitarTuner) - Tune your guitar with ease using this precise and user-friendly tuner app. Featuring multiple tuning algorithms, customizable presets, and a noise reduction feature, this app ensures your guitar is al
 - [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
+- [AudileTeam/Audile](https://github.com/AudileTeam/Audile) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [lorenzovngl/FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - 📱 Android app to track food expiration dates 🥦🥛🍎. Built with Jetpack Compose 🧩, MVVM 🛠️, Room 🗄️, and Material You 🎨.
 - [mhss1/MyBrain](https://github.com/mhss1/MyBrain) - All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.
 - [jd1378/otphelper](https://github.com/jd1378/otphelper) - open-source application that can copy OTP and codes from notifications automatically for you
@@ -2515,6 +2532,7 @@
 
 ## linux 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [mylee04/code-notify](https://github.com/mylee04/code-notify) - Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.
 - [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacO
@@ -2693,6 +2711,7 @@
 
 ## macos 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [mylee04/code-notify](https://github.com/mylee04/code-notify) - Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.
@@ -2839,6 +2858,7 @@
 
 ## mcp 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [sophymarine/openregistry](https://github.com/sophymarine/openregistry) - Real-time, direct-from-official-registry company data via MCP. 30 national registries; unmodified raw fields and raw filing bytes. Tools: search, profile, officers, shareholders, charges, filings, fin
@@ -2935,7 +2955,7 @@
 - [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 - [igrek51/android-songbook](https://github.com/igrek51/android-songbook) - Songbook for Android - Song lyrics viewer with chords for guitar, piano and singing
 - [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
+- [AudileTeam/Audile](https://github.com/AudileTeam/Audile) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
 - [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) - Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
@@ -3189,6 +3209,7 @@
 
 ## openai 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Hermes, OpenClaw, Copilot CLI, and more.
@@ -3761,7 +3782,7 @@
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 447 file formats in 26 languages.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
@@ -3826,6 +3847,7 @@
 
 ## privacy 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Myzel394/Alibi](https://github.com/Myzel394/Alibi) - Use your phone as a dashcam and save the last 30 minutes when you need them.
 - [Gokul-Raj-R-Coder/local-converter](https://github.com/Gokul-Raj-R-Coder/local-converter) - LocalConvert runs the entire conversion inside your browser using WebAssembly — the same technology that powers browser-based games and desktop-class apps in the browser.  What can it do? Supported ou
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
@@ -4226,6 +4248,8 @@
 
 ## rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - A polyglot document intelligence framework with a Rust core. Extract text, metadata, images, and structured data from 101 formats (115 file extensions) plus code intelligence for 371 code languages. 1
@@ -4372,6 +4396,7 @@
 
 ## self-hosted 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -4453,7 +4478,7 @@
 - [oneclickvirt/pve](https://github.com/oneclickvirt/pve) - 用于 Proxmox VE 的多架构一键服务器部署，支持批量或单独开设虚拟机，内置内外网端口转发和NAT，兼容 ARM64 与 AMD64 架构 One-click server deployment for Proxmox VE, supporting bulk or individual VM provisioning with built-in internal/external port 
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 447 file formats in 26 languages.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -4676,6 +4701,7 @@
 
 ## terminal 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
 - [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Self-hosted SSH and remote desktop management.
@@ -4754,6 +4780,7 @@
 
 ## tui 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [jalonsogo/tui-studio](https://github.com/jalonsogo/tui-studio) - Visual design tool for building Terminal User Interfaces
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [derekwisong/datui](https://github.com/derekwisong/datui) - Data Exploration in the Terminal
@@ -4787,6 +4814,7 @@
 
 ## typescript 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
@@ -5024,6 +5052,7 @@
 
 ## windows 
 
+- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [mylee04/code-notify](https://github.com/mylee04/code-notify) - Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script.
 - [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacO
