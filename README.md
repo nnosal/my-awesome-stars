@@ -525,6 +525,7 @@
 
 ## JavaScript 
 
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [lubusIN/frappe-playground](https://github.com/lubusIN/frappe-playground) - wasm powered frappe playground running entirely in browser
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
@@ -688,7 +689,7 @@
 - [igrek51/android-songbook](https://github.com/igrek51/android-songbook) - Songbook for Android - Song lyrics viewer with chords for guitar, piano and singing
 - [rohankhayech/Choona](https://github.com/rohankhayech/Choona) - Guitar tuner app for Android and Wear OS with support for custom tunings.
 - [mwdle/another-widget](https://github.com/mwdle/another-widget) - Watch events, weather and much more at a glance.
-- [aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
+- [AudileTeam/Audile](https://github.com/AudileTeam/Audile) - An open-source Android app for music recognition that integrates AudD, ACRCloud, and Shazam to perform song identification.
 - [d4rken-org/octi](https://github.com/d4rken-org/octi) - A multi-device manager for Android
 - [lorenzovngl/FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) - 📱 Android app to track food expiration dates 🥦🥛🍎. Built with Jetpack Compose 🧩, MVVM 🛠️, Room 🗄️, and Material You 🎨.
 - [guardianproject/proofmode-android](https://github.com/guardianproject/proofmode-android) - THIS REPOSITORY IS MIRROR OF: https://gitlab.com/guardianproject/proofmode/proofmode-android
@@ -948,7 +949,7 @@
 - [ymirapp/cli](https://github.com/ymirapp/cli) - Ymir command-line tool
 - [antiseptikk/wordpress-composer-skeleton](https://github.com/antiseptikk/wordpress-composer-skeleton) - This is simple a skeleton repo for a WordPress site managed by composer
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server & share tool that supports 445 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 447 file formats in 26 languages.
 - [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [jonathan-martz/pocketbase-php-sdk](https://github.com/jonathan-martz/pocketbase-php-sdk) - 
@@ -1213,6 +1214,8 @@
 
 ## Rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
+- [66HEX/frame](https://github.com/66HEX/frame) - FFmpeg GUI
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [Mesh-LLM/mesh-llm](https://github.com/Mesh-LLM/mesh-llm) - Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.
 - [wyattjoh/claude-code-notification](https://github.com/wyattjoh/claude-code-notification) - A lightweight macOS desktop notification hook for Claude Code that displays native notifications with customizable system sounds when events occur during AI coding sessions.
@@ -1476,6 +1479,7 @@
 
 ## TypeScript 
 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCod
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [TangSY/aedifex](https://github.com/TangSY/aedifex) - Open-source 3D architectural editor with AI design assistant. Build floor plans with walls, doors, windows, and furniture using natural language. Powered by WebGPU,   Three.js, and React.
