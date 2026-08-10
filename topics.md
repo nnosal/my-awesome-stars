@@ -3533,7 +3533,7 @@
 - [AndorsTrailRelease/andors-trail](https://github.com/AndorsTrailRelease/andors-trail) - Andor's Trail
 - [muzei/muzei](https://github.com/muzei/muzei) - Muzei Live Wallpaper for Android
 - [akirakyle/homebrew-qemu-virgl](https://github.com/akirakyle/homebrew-qemu-virgl) - A homebrew tap for qemu with support for 3d accelerated guests
-- [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Every day is worth remembering...
+- [Demizo/Daily_You](https://github.com/Demizo/Daily_You) - Daily diary & journaling app
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 - [jy0205/Pyramid-Flow](https://github.com/jy0205/Pyramid-Flow) - [ICLR 2025] Pyramidal Flow Matching for Efficient Video Generative Modeling
 - [mwdle/another-widget](https://github.com/mwdle/another-widget) - Watch events, weather and much more at a glance.
