@@ -235,6 +235,7 @@
 ## Go 
 
 - [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacO
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents.
@@ -527,7 +528,6 @@
 
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [lubusIN/frappe-playground](https://github.com/lubusIN/frappe-playground) - wasm powered frappe playground running entirely in browser
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [sosoj92/factcheckfrench](https://github.com/sosoj92/factcheckfrench) - Comme le titre
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
@@ -640,6 +640,7 @@
 - [dockur/portainer-backup](https://github.com/dockur/portainer-backup) - Portainer Backup Utility
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
+- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
@@ -923,7 +924,7 @@
 - [krayin/laravel-crm](https://github.com/krayin/laravel-crm) - Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.
 - [bagisto/bagisto](https://github.com/bagisto/bagisto) - Open Source eCommerce Platform Built with Laravel for Enterprise-Scale Commerce Supporting 10M+ SKUs
 - [aureuserp/aureuserp](https://github.com/aureuserp/aureuserp) - Free and Open Source ERP platform
-- [unopim/unopim](https://github.com/unopim/unopim) - UnoPIM is a free and open-source Product Information Management (PIM) solution built on Laravel to manage, enrich, and scale product data beyond 10 million products.
+- [unopim/unopim](https://github.com/unopim/unopim) - Open source Product Information Management (PIM) and Digital Asset Management (DAM) platform built on Laravel — manage, enrich, and scale product data and digital assets beyond 10 million products. Fr
 - [kimai/kimai](https://github.com/kimai/kimai) - Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based
 - [InvoiceShelf/InvoiceShelf](https://github.com/InvoiceShelf/InvoiceShelf) - Open Source Invoicing Solution for Individuals & Businesses
 - [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)
@@ -1005,6 +1006,7 @@
 
 ## Python 
 
+- [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
 - [3dlg-hcvc/plan2scene](https://github.com/3dlg-hcvc/plan2scene) - Official implementation of the paper Plan2Scene.
@@ -1428,7 +1430,6 @@
 - [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [texm/shokku](https://github.com/texm/shokku) - a web interface for Dokku
-- [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## Swift 
