@@ -476,7 +476,7 @@
 - [nutritionfactsorg/daily-dozen-android](https://github.com/nutritionfactsorg/daily-dozen-android) - Keep track of the foods that Dr. Greger recommends in his NYT's best-selling book, How Not to Die with this Android app
 - [GiorgioRegni/Binaural-Beats](https://github.com/GiorgioRegni/Binaural-Beats) - Brainwaves entrainment, auto hypnosis & lucid dreaming with an Android phone
 - [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
-- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A non-root Xposed framework extending from Vector
+- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk.
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [SecUSo/privacy-friendly-qr-scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner) - Privacy Friendly QR Code Scanner for Android
 - [woheller69/omweather](https://github.com/woheller69/omweather) - 
@@ -951,7 +951,7 @@
 - [ymirapp/cli](https://github.com/ymirapp/cli) - Ymir command-line tool
 - [antiseptikk/wordpress-composer-skeleton](https://github.com/antiseptikk/wordpress-composer-skeleton) - This is simple a skeleton repo for a WordPress site managed by composer
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 457 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 488 file formats in 26 languages.
 - [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [jonathan-martz/pocketbase-php-sdk](https://github.com/jonathan-martz/pocketbase-php-sdk) - 
@@ -1061,7 +1061,7 @@
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
-- [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Simplify interactions with Large Language Models
+- [hassancs91/SimplerLLM](https://github.com/hassancs91/SimplerLLM) - Python library for building with LLMs. One interface across 11 providers (OpenAI, Anthropic, Gemini, DeepSeek, Ollama and more), automatic failover, Pydantic-validated structured output, embeddings wi
 - [lissy93/framework-benchmarks](https://github.com/lissy93/framework-benchmarks) - 🌈 The same app built in 10 different frontend frameworks. For automated performance benchmarking
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [google/glazier](https://github.com/google/glazier) - A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
