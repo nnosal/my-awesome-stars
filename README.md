@@ -476,7 +476,6 @@
 - [nutritionfactsorg/daily-dozen-android](https://github.com/nutritionfactsorg/daily-dozen-android) - Keep track of the foods that Dr. Greger recommends in his NYT's best-selling book, How Not to Die with this Android app
 - [GiorgioRegni/Binaural-Beats](https://github.com/GiorgioRegni/Binaural-Beats) - Brainwaves entrainment, auto hypnosis & lucid dreaming with an Android phone
 - [labnex/LabNex](https://github.com/labnex/LabNex) - LabNex is an open-source Android app designed for managing GitLab projects
-- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk.
 - [OpenTracksApp/OpenTracks](https://github.com/OpenTracksApp/OpenTracks) - Repository moved to: https://codeberg.org/OpenTracksApp/OpenTracks
 - [SecUSo/privacy-friendly-qr-scanner](https://github.com/SecUSo/privacy-friendly-qr-scanner) - Privacy Friendly QR Code Scanner for Android
 - [woheller69/omweather](https://github.com/woheller69/omweather) - 
@@ -540,7 +539,7 @@
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [AFP-Medialab/verification-plugin](https://github.com/AFP-Medialab/verification-plugin) - A verification “Swiss army knife” helping journalists, fact-checkers, and human rights defenders to save time and be more efficient in their fact-checking and debunking tasks on social networks especi
 - [xemle/home-gallery](https://github.com/xemle/home-gallery) - Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery
-- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
+- [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [libremesh/libremesh.github.io](https://github.com/libremesh/libremesh.github.io) - LibreMesh web site using VitePress
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [izuolan/notionic](https://github.com/izuolan/notionic) - Notion + Craft.do + Next.js = Notionic
@@ -641,6 +640,7 @@
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
@@ -704,6 +704,7 @@
 - [BitFlaker/lucidsourcekit](https://github.com/BitFlaker/lucidsourcekit) - This app is supposed to be an all-you-need toolkit for lucid dreaming with a focus on feature richness and customizability
 - [lukaspieper/Gcam-Services-Provider](https://github.com/lukaspieper/Gcam-Services-Provider) - App faking only the absolute necessary Apis to use Gcam without Play Services
 - [GrapheneOS/AppStore](https://github.com/GrapheneOS/AppStore) - 
+- [JingMatrix/LSPatch](https://github.com/JingMatrix/LSPatch) - A rootless Xposed framework that embeds Vector into an app by patching its APK — no root, no Zygisk.
 - [home-assistant/android](https://github.com/home-assistant/android) - Home Assistant Companion for Android
 - [karasevm/PrivateDNSAndroid](https://github.com/karasevm/PrivateDNSAndroid) - Quick settings tile to switch active private DNS server
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
@@ -742,7 +743,6 @@
 - [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [tiann/KernelSU](https://github.com/tiann/KernelSU) - A Kernel based root solution for Android
-- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 - [helloworld1/FreeOTPPlus](https://github.com/helloworld1/FreeOTPPlus) - Enhanced fork of FreeOTP-Android providing a feature-rich 2FA authenticator
 - [aj3423/SpamBlocker](https://github.com/aj3423/SpamBlocker) - Android Call/SMS blocker.
@@ -951,7 +951,7 @@
 - [ymirapp/cli](https://github.com/ymirapp/cli) - Ymir command-line tool
 - [antiseptikk/wordpress-composer-skeleton](https://github.com/antiseptikk/wordpress-composer-skeleton) - This is simple a skeleton repo for a WordPress site managed by composer
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 488 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
 - [SergeyTsalkov/meekrodb](https://github.com/SergeyTsalkov/meekrodb) - MeekroDB -- The Simple PHP MySQL Library
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [jonathan-martz/pocketbase-php-sdk](https://github.com/jonathan-martz/pocketbase-php-sdk) - 
@@ -1372,7 +1372,7 @@
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [aniketkarne/ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically
 - [joknarf/thefly](https://github.com/joknarf/thefly) - shell teleporter plugin/dotfiles manager (bash/zsh/ksh/fish)
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
@@ -1397,6 +1397,7 @@
 - [cmj2002/warp-docker](https://github.com/cmj2002/warp-docker) - Run Cloudflare WARP in Docker.
 - [lancachenet/docker-compose](https://github.com/lancachenet/docker-compose) - Docker-compose for a full-stack lancache
 - [PapirusDevelopmentTeam/papirus_icons](https://github.com/PapirusDevelopmentTeam/papirus_icons) - Papirus Icon Pack for Android
+- [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) - Main UserLAnd Repository
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [mag37/dockcheck](https://github.com/mag37/dockcheck) - CLI tool to automate docker image updates. Interactive or unattended with notifications, image backups, autoprune, no pre-pulling and more.
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
@@ -1428,7 +1429,6 @@
 - [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so) - Shorten, customize, and track your links with Fli.so. The easiest way to manage your links, all in one platform.
 - [KittyCAD/text-to-cad-ui](https://github.com/KittyCAD/text-to-cad-ui) - A lightweight UI for interacting with the Zoo Text-to-CAD API.
 - [qgustavor/mkv-extract](https://github.com/qgustavor/mkv-extract) - Extract MKV files online, directly from your browser
-- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [colinlienard/gitlight](https://github.com/colinlienard/gitlight) - 🐙 GitHub & GitLab notifications on your desktop
 - [texm/shokku](https://github.com/texm/shokku) - a web interface for Dokku
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -1665,6 +1665,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [mistweaverco/bananas](https://github.com/mistweaverco/bananas) - Bananas🍌, Cross-Platform screen 🖥️ sharing 📡 made simple ⚡.
 - [pockethost/pockethost](https://github.com/pockethost/pockethost) - Open source multitenant PocketBase server
 - [Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - A games launcher for GOG, Amazon and Epic Games for Linux, Windows and macOS.
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
@@ -1699,7 +1700,6 @@
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
