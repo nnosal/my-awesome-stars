@@ -1108,7 +1108,7 @@
 
 ## command-line 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [mocks-rs/mocks](https://github.com/mocks-rs/mocks) - Mock REST APIs from JSON with zero coding within seconds.
@@ -1539,6 +1539,7 @@
 
 - [agentrq/agentrq](https://github.com/agentrq/agentrq) - AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 
 ## education 
 
@@ -2689,7 +2690,7 @@
 - [solidtime-io/solidtime-desktop](https://github.com/solidtime-io/solidtime-desktop) - solidtime timetracker desktop app for macOS, Windows and Linux
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!
@@ -2747,7 +2748,7 @@
 - [fenio/anylinuxfs-gui](https://github.com/fenio/anylinuxfs-gui) - macOS GUI for anylinuxfs
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box terminal built for AI coding.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
 - [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.6 is built nightly :beer:
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
@@ -3796,7 +3797,7 @@
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [LibreSign/libresign](https://github.com/LibreSign/libresign) - Control how your documents get signed
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 488 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [bobthecow/psysh](https://github.com/bobthecow/psysh) - A REPL for PHP
 - [deployphp/deployer](https://github.com/deployphp/deployer) - The PHP deployment tool with support for popular frameworks out of the box
@@ -4494,7 +4495,7 @@
 - [oneclickvirt/pve](https://github.com/oneclickvirt/pve) - 用于 Proxmox VE 的多架构一键服务器部署，支持批量或单独开设虚拟机，内置内外网端口转发和NAT，兼容 ARM64 与 AMD64 架构 One-click server deployment for Proxmox VE, supporting bulk or individual VM provisioning with built-in internal/external port 
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
-- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted file conversion server that supports 488 file formats in 26 languages.
+- [zelon88/HRConvert2](https://github.com/zelon88/HRConvert2) - A self-hosted, respource aware file conversion server supporting 488 formats in 26 languages.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -4516,7 +4517,7 @@
 
 - [jasonraimondi/dotfiles](https://github.com/jasonraimondi/dotfiles) - MacOS Dotfiles. Maintaining your machines config in git is :fire:. Using Stow to handle the dotfiles is :fire::fire:. Utilizing Brew, Prezto, and Mise.
 - [jbangdev/jbang](https://github.com/jbangdev/jbang) - Unleash the power of Java - JBang Lets Students, Educators and Professional Developers create, edit and run self-contained source-only Java programs with unprecedented ease.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [joknarf/thefly](https://github.com/joknarf/thefly) - shell teleporter plugin/dotfiles manager (bash/zsh/ksh/fish)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -4639,6 +4640,7 @@
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [Aayush9029/petal](https://github.com/Aayush9029/petal) - Petal is a native macOS menu bar app for fast, local-first audio transcription.
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -4657,6 +4659,7 @@
 - [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [Aayush9029/petal](https://github.com/Aayush9029/petal) - Petal is a native macOS menu bar app for fast, local-first audio transcription.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
 - [partout-io/passepartout](https://github.com/partout-io/passepartout) - Your go-to app for VPN and privacy.
 - [milanvarady/Applite](https://github.com/milanvarady/Applite) - User-friendly GUI macOS application for Homebrew Casks
