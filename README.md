@@ -233,6 +233,7 @@
 
 ## Go 
 
+- [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
 - [777genius/claude-notifications-go](https://github.com/777genius/claude-notifications-go) - 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Click-to-focus. 1 line installation. Instant. Analyze context. Zero dependencies. webhooks (ntfy, slack, telegram...). Linux, MacO
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
@@ -487,7 +488,7 @@
 - [SecUSo/privacy-friendly-reckoning-skills](https://github.com/SecUSo/privacy-friendly-reckoning-skills) - Privacy Friendly App to train reckoning skills on Android.
 - [patzly/grocy-android](https://github.com/patzly/grocy-android) - ERP beyond your fridge, now on your phone – An awesome companion app for Grocy
 - [Forceu/barcodebuddy-android](https://github.com/Forceu/barcodebuddy-android) - Android app for Barcode Buddy
-- [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+- [traccar/traccar](https://github.com/traccar/traccar) - Open source GPS tracking platform - self-hosted or managed, 200+ device protocols
 - [Donnnno/candybar-foss](https://github.com/Donnnno/candybar-foss) - A FOSS implementation of Candybar
 - [Wil-Design/Popcons](https://github.com/Wil-Design/Popcons) - Popcons Icon Pack
 - [gitnex-org/gitnex](https://github.com/gitnex-org/gitnex) - Android client for Forgejo(https://codeberg.org), Gitea(https://gitea.com) [OR your custom hosted server]. Mirror of https://codeberg.org/gitnex/GitNex
@@ -1008,6 +1009,7 @@
 
 ## Python 
 
+- [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [ronaldoussoren/pyobjc](https://github.com/ronaldoussoren/pyobjc) - The Python &lt;-&gt; Objective-C Bridge with bindings for macOS frameworks
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [browser-use/video-use](https://github.com/browser-use/video-use) - Edit videos with coding agents
@@ -1034,7 +1036,6 @@
 - [osprey-oss/cookiecutter-uv](https://github.com/osprey-oss/cookiecutter-uv) - A modern cookiecutter template for Python projects that use uv for dependency management
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Build realtime web, mobile and desktop apps in Python only. No frontend experience required.
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th
-- [YV17labs/GhostDesk](https://github.com/YV17labs/GhostDesk) - Give any AI agent a full desktop — it sees the screen, clicks, types, and runs apps like a human. Automate anything with a UI: browsers, legacy software, internal tools. No API needed. One Docker comm
 - [Kaliiiiiiiiii-Vinyzu/patchright-python](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright-python) - Undetected Python version of the Playwright testing and automation library.
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
@@ -1232,6 +1233,7 @@
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [jumpserver/client](https://github.com/jumpserver/client) - JumpServer Client, support macOS, Windows, Linux. Developed by Tauri
 - [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
+- [YV17labs/GhostDesk](https://github.com/YV17labs/GhostDesk) - Give any AI agent a full desktop — it sees the screen, clicks, types, and runs apps like a human. Automate anything with a UI: browsers, legacy software, internal tools. No API needed. One Docker comm
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [ripytide/metapac](https://github.com/ripytide/metapac) - multi-backend declarative package manager
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -1536,7 +1538,7 @@
 - [Automattic/studio](https://github.com/Automattic/studio) - WordPress Studio, a free desktop app and CLI that helps developers streamline their local WordPress development workflow.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
-- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - An AI coding agent guardrail — a CLI hook that blocks destructive git and filesystem commands and secret file access before they execute. Supports Amp Code, Antigravity CLI, Claude Code, Codex, Copilo
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) - A pre-execution guard for AI coding agents. It blocks destructive Git and file system commands, plus common attempts to access sensitive files, before a tool call runs. Supports Amp Code, Antigravity 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [abcoder0101/perfex-dev-tools](https://github.com/abcoder0101/perfex-dev-tools) - Perfex Dev Tools is a Visual Studio Code extension designed to streamline the development of modules and themes for Perfex CRM. With powerful scaffolding tools and a rich set of code snippets, it sign
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
