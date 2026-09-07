@@ -1239,7 +1239,7 @@
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [ripytide/metapac](https://github.com/ripytide/metapac) - multi-backend declarative package manager
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Branchable computing by using a portable, lightweight, self-contained virtual machine
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [1jehuang/mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - A fast native Rust Mermaid diagram renderer. No browser required. 500-1000x faster than mermaid-cli.
