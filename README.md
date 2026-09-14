@@ -240,7 +240,7 @@
 ## Go 
 
 - [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
-- [777genius/agent-notifications](https://github.com/777genius/agent-notifications) - 🔔 Cross-platform smart notifications for Claude and Codex. Desktop alerts, sounds, click-to-focus, and webhooks on macOS, Linux, and Windows.
+- [777genius/agent-notifications](https://github.com/777genius/agent-notifications) - 🔔 Cross-platform smart notifications for Claude/Codex (more coming). Desktop alerts, sounds, click-to-focus, and webhooks on macOS, Linux, and Windows.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [entireio/cli](https://github.com/entireio/cli) - 📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.
 - [chattocorp/chatto](https://github.com/chattocorp/chatto) - A fully-featured team and group chat application that you can easily selfhost.
