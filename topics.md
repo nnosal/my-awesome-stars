@@ -459,6 +459,7 @@
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
 - [PabloNAX/ultracode-skill](https://github.com/PabloNAX/ultracode-skill) - Codex-first Ultracode skill for dynamic coding workflows
 - [awizemann/harness](https://github.com/awizemann/harness) - AI-driven user testing for iOS Simulator, macOS apps, and web apps. Write a goal in plain language; an LLM agent drives the UI and reports friction. macOS 14+, Swift 6.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [0xNyk/awesome-hermes-agent](https://github.com/0xNyk/awesome-hermes-agent) - Independent directory of useful skills, plugins, memory providers, tools, surfaces, and guides for Nous Research's open-source Hermes Agent.
 - [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [kayba-ai/agentic-context-engine](https://github.com/kayba-ai/agentic-context-engine) - 🧠 Make your agents learn from experience. Now available as a hosted solution at kayba.ai
@@ -2659,6 +2660,7 @@
 - [decolua/9router](https://github.com/decolua/9router) - Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
 - [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) - High-performance OpenAI and Anthropic compatible LLM inference server for Apple Silicon. Native MLX, continuous batching, multimodal models, MCP tool calling, and Claude Code support.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
@@ -3210,6 +3212,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [presubmit/ai-reviewer](https://github.com/presubmit/ai-reviewer) - Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -3311,6 +3314,7 @@
 
 ## others 
 
+- [aloshdenny/claude-awm](https://github.com/aloshdenny/claude-awm) - claude anti-watermarking
 - [sachin-patro/jev-plays-games](https://github.com/sachin-patro/jev-plays-games) - Chess, Connect Four, and a decision model. Play Jev or watch Jev play itself.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [chrisgreg/boop](https://github.com/chrisgreg/boop) - A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.
@@ -4480,6 +4484,7 @@
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
 - [blob42/gosuki](https://github.com/blob42/gosuki) - One binary, zero extensions, real time multi browser bookmark manager . Works with any browser and handles profiles. Multi-device sync and archival
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [Swetrix/swetrix](https://github.com/Swetrix/swetrix) - 📈 Open source, privacy-first web analytics — a cookie-less Google Analytics alternative with built-in error tracking and performance monitoring. Self-host it or use our cloud. Get started for free!
