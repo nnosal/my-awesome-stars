@@ -422,6 +422,7 @@
 
 ## HTML 
 
+- [aloshdenny/claude-awm](https://github.com/aloshdenny/claude-awm) - claude anti-watermarking
 - [noemica-io/open-claude-in-chrome](https://github.com/noemica-io/open-claude-in-chrome) - Claude in Chrome, reverse-engineered and open-source. No domain blocklist. Any Chromium browser. Same 18 MCP tools, same performance.
 - [antonmedv/textarea](https://github.com/antonmedv/textarea) - A minimalist text editor that lives in URL
 - [GeneploreAI/gibberifier](https://github.com/GeneploreAI/gibberifier) - Stun LLMs with random Unicode characters
@@ -1355,7 +1356,6 @@
 ## SCSS 
 
 - [presentator/presentator](https://github.com/presentator/presentator) - Design feedback and presentation platform
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 
 ## Scala 
@@ -1427,7 +1427,6 @@
 ## Svelte 
 
 - [Gokul-Raj-R-Coder/local-converter](https://github.com/Gokul-Raj-R-Coder/local-converter) - LocalConvert runs the entire conversion inside your browser using WebAssembly — the same technology that powers browser-based games and desktop-class apps in the browser.  What can it do? Supported ou
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [thisuxhq/fli.so](https://github.com/thisuxhq/fli.so) - Shorten, customize, and track your links with Fli.so. The easiest way to manage your links, all in one platform.
 - [KittyCAD/text-to-cad-ui](https://github.com/KittyCAD/text-to-cad-ui) - A lightweight UI for interacting with the Zoo Text-to-CAD API.
 - [qgustavor/mkv-extract](https://github.com/qgustavor/mkv-extract) - Extract MKV files online, directly from your browser
@@ -1529,7 +1528,7 @@
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) - My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux) - Menu-driven Proxmox VE toolkit — post-install, backup/restore and a live web dashboard for the homelab.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [abusoww/tuxmate](https://github.com/abusoww/tuxmate) - THE MISSING BULK APP INSTALLER FOR LINUX
@@ -1546,13 +1545,14 @@
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to) - Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [srbhptl39/MCP-SuperAssistant](https://github.com/srbhptl39/MCP-SuperAssistant) - Brings MCP to ChatGPT, DeepSeek, Perplexity, Grok, Gemini, Google AI Studio, OpenRouter, DeepSeek, T3 Chat and more...
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [presubmit/ai-reviewer](https://github.com/presubmit/ai-reviewer) - Context-aware AI reviewer for Pull Requests. Instant summary, line-by-line comments, title generation and more
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
@@ -1666,6 +1666,7 @@
 - [Davronov-Alimardon/canva-clone](https://github.com/Davronov-Alimardon/canva-clone) - A production-ready graphic design SaaS platform with an intuitive drag-and-drop editor, AI-powered features, and complete subscription management. Built with Next.js 14, Fabric.js canvas engine, Repli
 - [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
