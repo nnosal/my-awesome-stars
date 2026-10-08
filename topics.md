@@ -1543,6 +1543,7 @@
 
 ## documentation 
 
+- [zalando/tech-radar](https://github.com/zalando/tech-radar) - Visualizing our technology choices
 - [imxv/Pretty-mermaid-skills](https://github.com/imxv/Pretty-mermaid-skills) - AI Agent Skill to generate and render beautiful Mermaid diagrams as SVG or terminal ASCII — 15 themes, 6 diagram types, batch CLI, no browser.
 - [PrestaShop/docs](https://github.com/PrestaShop/docs) - PrestaShop technical documentation
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems.
@@ -3066,6 +3067,7 @@
 
 ## nextjs 
 
+- [jackpoll-org/jackpoll](https://github.com/jackpoll-org/jackpoll) - Open-source, GDPR-compliant survey and quiz builder — a free, self-hostable alternative to Google Forms. Next.js/Capacitor frontend, Quarkus backend. By Quavon Development.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [Luigigreco/gitforms](https://github.com/Luigigreco/gitforms) - 🎯 Zero-cost contact forms for landing pages using GitHub Issues as free database. Open-source alternative to Typeform/Tally/FormSpree. Next.js 14, TypeScript, Tailwind CSS. €0/month.
@@ -3196,6 +3198,7 @@
 
 ## open-source 
 
+- [jackpoll-org/jackpoll](https://github.com/jackpoll-org/jackpoll) - Open-source, GDPR-compliant survey and quiz builder — a free, self-hostable alternative to Google Forms. Next.js/Capacitor frontend, Quarkus backend. By Quavon Development.
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [noemica-io/open-claude-in-chrome](https://github.com/noemica-io/open-claude-in-chrome) - Claude in Chrome, reverse-engineered and open-source. No domain blocklist. Any Chromium browser. Same 18 MCP tools, same performance.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -3317,6 +3320,9 @@
 
 ## others 
 
+- [thoughtworks/build-your-own-radar](https://github.com/thoughtworks/build-your-own-radar) - A library that generates an interactive radar, inspired by https://thoughtworks.com/radar/.
+- [nderhore/radar-veille-ia](https://github.com/nderhore/radar-veille-ia) - 
+- [ClaperCo/Claper](https://github.com/ClaperCo/Claper) - 👋 The ultimate tool to interact with your audience
 - [aloshdenny/claude-awm](https://github.com/aloshdenny/claude-awm) - claude anti-watermarking
 - [sachin-patro/jev-plays-games](https://github.com/sachin-patro/jev-plays-games) - Chess, Connect Four, and a decision model. Play Jev or watch Jev play itself.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
@@ -3355,7 +3361,7 @@
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
 - [eisenzopf/rvoip](https://github.com/eisenzopf/rvoip) - 
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 100x* faster Homebrew alternative
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [dlenski/vpn-slice](https://github.com/dlenski/vpn-slice) - vpnc-script replacement for easy and secure split-tunnel VPN setup
 - [andfanilo/python-webapp-comparison](https://github.com/andfanilo/python-webapp-comparison) - Trying out all Python Data Web Frameworks
@@ -3698,7 +3704,7 @@
 - [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 - [nenes25/hhpsmigrationupgradedb](https://github.com/nenes25/hhpsmigrationupgradedb) - Prestashop module with a command console to apply db migrations when upgrading prestashop
 - [nenes25/prestashop_console](https://github.com/nenes25/prestashop_console) - Prestashop Console Tools
-- [TeamEver/everpsblog](https://github.com/TeamEver/everpsblog) - Free blog module for Prestashop 1.7 & 8
+- [TeamEver/everpsblog](https://github.com/TeamEver/everpsblog) - Free blog module for Prestashop 8 & 9
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [GuitarML/NeuralPi](https://github.com/GuitarML/NeuralPi) - Raspberry Pi guitar pedal using neural networks to emulate real amps and effects.
@@ -4471,6 +4477,7 @@
 
 ## self-hosted 
 
+- [jackpoll-org/jackpoll](https://github.com/jackpoll-org/jackpoll) - Open-source, GDPR-compliant survey and quiz builder — a free, self-hostable alternative to Google Forms. Next.js/Capacitor frontend, Quarkus backend. By Quavon Development.
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
 - [Osmantic/ODS](https://github.com/Osmantic/ODS) - ODS V3 Pre-Release: Public testing and refinement ahead of the official V3 launch. Turn your PC, Mac, or Linux box into a private AI server.
 - [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) - Modern Docker Management, Designed for Everyone
