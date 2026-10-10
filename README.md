@@ -30,6 +30,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -455,11 +456,16 @@
 - [geek-cookbook/geek-cookbook](https://github.com/geek-cookbook/geek-cookbook) - The "Geek's Cookbook" is a collection of guides for establishing your own highly-available "private cloud" and using it to run self-hosted services such as GitLab, Plex, NextCloud, etc.
 - [pwkip/contact-form-7-conditional-fields](https://github.com/pwkip/contact-form-7-conditional-fields) - Wordpress Plugin: Contact Form 7 Conditional Fields
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 
 ## Haskell 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+
+## JSON 
+
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 
 ## Java 
 
@@ -574,7 +580,6 @@
 - [0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) - Hosted Reverse Shell generator with a ton of functionality. -- (Great for CTFs)
 - [offen/offen](https://github.com/offen/offen) - Offen Fair Web Analytics
 - [paperjs/paper.js](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas. Created by @lehni & @puckey
-- [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [niklauslee/frame0-mcp-server](https://github.com/niklauslee/frame0-mcp-server) - 
 - [wonderunit/storyboarder](https://github.com/wonderunit/storyboarder) - ✏️ Storyboarder makes it easy to visualize a story as fast you can draw stick figures.
 - [tamohannes/organizenoc](https://github.com/tamohannes/organizenoc) - 🗂️ Researcher-centric extension suite streamlines academic material management in Notion. It includes PaperNoc, NoteNoc, FindingNoc, and BibNoc simplifying tasks like metadata extraction, PDF highligh
@@ -634,7 +639,6 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [sachinchoolur/jquery-to-javascript-converter](https://github.com/sachinchoolur/jquery-to-javascript-converter) - Automatically finds jQuery methods from existing projects and generates vanilla js alternatives.
 - [raindropio/app](https://github.com/raindropio/app) - Source code of web app and browser extensions
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [NUKnightLab/TimelineJS3](https://github.com/NUKnightLab/TimelineJS3) - TimelineJS v3: A Storytelling Timeline built in JavaScript.  http://timeline.knightlab.com
 - [wavemakercards/wavemaker-v4](https://github.com/wavemakercards/wavemaker-v4) - The Version 4 release of wavemaker - Nov 2022
@@ -647,7 +651,6 @@
 - [dockur/portainer-backup](https://github.com/dockur/portainer-backup) - Portainer Backup Utility
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 
@@ -1009,6 +1012,7 @@
 
 ## Python 
 
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [nderhore/radar-veille-ia](https://github.com/nderhore/radar-veille-ia) - 
 - [piccolo-orm/piccolo](https://github.com/piccolo-orm/piccolo) - A fast, user friendly ORM and query builder which supports asyncio.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tri
@@ -1081,7 +1085,7 @@
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [pwnfuzz/diffrays](https://github.com/pwnfuzz/diffrays) - DiffRays is a research-oriented tool for binary patch diffing, designed to aid in vulnerability research, exploit development, and reverse engineering.
 - [ALwrity/ALwrity](https://github.com/ALwrity/ALwrity) - ALwrity - AI-first Digital Marketing Platform. AI Content Strategy and Planning, Multimodal content generation, Publishing, Analytics, AI SEO, Connect & Manage Social Accounts. Marketing OS - WIP
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
 - [a-omukai/Writingway](https://github.com/a-omukai/Writingway) - Writingway is an AI-powered creative writing tool that helps authors brainstorm, refine prose, analyze story structure, and manage context dynamically. It features a chat-based workshop, customizable 
 - [iamarunbrahma/pdf-to-markdown](https://github.com/iamarunbrahma/pdf-to-markdown) - Turn PDFs into clean, structured Markdown
 - [oneclickvirt/macos](https://github.com/oneclickvirt/macos) - macos镜像的完整iso文件制作(使用时无需联网安装任何组件)Full iso file creation for macos image (no internet connection required to install any components when using it)
@@ -1235,7 +1239,7 @@
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [eisenzopf/rvoip](https://github.com/eisenzopf/rvoip) - 
-- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew alternative
+- [zerobrewhq/zerobrew](https://github.com/zerobrewhq/zerobrew) - An up to 6.6x faster Homebrew client
 - [xberg-io/xberg](https://github.com/xberg-io/xberg) - Polyglot document intelligence with a Rust core: extract text, metadata, images, tables, and structured data from 106 formats across 140 file extensions, plus code intelligence for 371 languages. Fift
 - [jumpserver/client](https://github.com/jumpserver/client) - JumpServer Client, support macOS, Windows, Linux. Developed by Tauri
 - [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
@@ -1253,7 +1257,7 @@
 - [carboxyl-rs/carboxyl](https://github.com/carboxyl-rs/carboxyl) - Chromium running inside your terminal (fork of carbonyl)
 - [fenio/anylinuxfs-gui](https://github.com/fenio/anylinuxfs-gui) - macOS GUI for anylinuxfs
 - [nikhilunni/demucs-rs](https://github.com/nikhilunni/demucs-rs) - Rust powered waveform source separation
-- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A fast, out-of-the-box macOS terminal built for AI coding.
+- [tw93/Kaku](https://github.com/tw93/Kaku) - 🎃 A blazing-fast Mac terminal, built for coding with AI.
 - [aneoconsulting/tf-provider](https://github.com/aneoconsulting/tf-provider) - Plugin framework for Terraform and ToFu in Rust
 - [YeDawa/DumpSync](https://github.com/YeDawa/DumpSync) - DumpSync is a lightweight tool designed for efficiently dumping and restoring MySQL databases. Whether you need to create backups, restore databases, or transfer data between servers.
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
@@ -1346,7 +1350,7 @@
 - [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion) - Tiny alternative Discord client with a smaller footprint, snappier startup, themes, plugins and more!
 - [DefGuard/client](https://github.com/DefGuard/client) - Sole VPN client implementing Multi-Factor Authentication on WireGuard® VPN connection
 - [mrjackwills/obliqoro](https://github.com/mrjackwills/obliqoro) - A cross-platform tauri gui where Oblique Strategies meets Pomodoro
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [lissy93/AdGuardian-Term](https://github.com/lissy93/AdGuardian-Term) - 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
@@ -1383,7 +1387,7 @@
 - [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) - VSCode theme based off the easemate IDE and Jetbrains islands theme
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [aniketkarne/ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch) - Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically
 - [joknarf/thefly](https://github.com/joknarf/thefly) - shell env teleporter plugin/dotfiles/ssh connections manager (bash/zsh/ksh/fish)
 - [erikarvstedt/extra-container](https://github.com/erikarvstedt/extra-container) - Run declarative NixOS containers without full system rebuilds
@@ -1454,7 +1458,7 @@
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Local-first macOS app to browse, search, analyze, and resume supported AI coding-agent session history across Codex, Claude Code, OpenCode, Cursor Agent, Antigravity, Hermes, OpenClaw, Copilot CLI, an
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [Aayush9029/petal](https://github.com/Aayush9029/petal) - Petal is a native macOS menu bar app for fast, local-first audio transcription.
-- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
+- [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - Run a virtual iPhone on an Apple Silicon Mac.
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) - Dynamic Island for macOS
 - [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) - Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed
@@ -1564,7 +1568,7 @@
 - [versyxdigital/mkeditor](https://github.com/versyxdigital/mkeditor) - MKEditor: AI-powered markdown with style.
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Operating System
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Connect Your Agents And Harnesses With Any Provider 🦚
+- [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) - Open Source LLM Gateway 🦚
 - [will-stone/browserosaurus](https://github.com/will-stone/browserosaurus) - 🦖 The browser prompter for macOS
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.
@@ -1590,6 +1594,7 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [microsoft/clarity](https://github.com/microsoft/clarity) - A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
+- [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [niklauslee/draw2app](https://github.com/niklauslee/draw2app) - Generate web app from drawing by AI
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
