@@ -722,7 +722,7 @@
 - [nextcloud/android](https://github.com/nextcloud/android) - 📱 Nextcloud Android app
 - [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
 - [jd1378/otphelper](https://github.com/jd1378/otphelper) - open-source application that can copy OTP and codes from notifications automatically for you
-- [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An Android app that uses your phone's sensors to assist with wilderness treks or survival situations.
+- [kylecorry31/Trail-Sense](https://github.com/kylecorry31/Trail-Sense) - An offline multi-tool Android app for hiking, backpacking, camping, wilderness survival, foraging, and hunting.
 - [DevEmperor/DictateKeyboard](https://github.com/DevEmperor/DictateKeyboard) - A powerful AI keyboard for reliable speech transcription
 - [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 - [m-i-n-a-r/randomix](https://github.com/m-i-n-a-r/randomix) - 🎲 An open source app to choose randomly between numbers, answers, options and so on
@@ -1653,7 +1653,7 @@
 - [morningstar-manu/receipt-scanner-app](https://github.com/morningstar-manu/receipt-scanner-app) - Une application basée sur une architecture microservices permettant de scanner des tickets de caisse, extraire des données via OCR et IA, gérer la fidélité client et proposer des recommandations perso
 - [addyosmani/say](https://github.com/addyosmani/say) - Say - A Whisper AI Notes app
 - [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
-- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best client for all of your cloud storage
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [ShacharHarshuv/open-ear](https://github.com/ShacharHarshuv/open-ear) - 
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a free and open source application for interfacing with llama.cpp models locally, and with Anthropic, DeepSeek, Ollama, Mistral and OpenAI models remotely.
